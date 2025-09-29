@@ -1,8 +1,8 @@
-## Chapter Cashier
+## Chapter Treasurer
 
 ### Description
 
-As the chapter cashier you are responsible for managing the bookkeeping and the budgeting for the chapter. You are also one of the two firmatecknare, together with the president, and you are on the alcohol license. Outside of the regular board member responsibilities, you are also responsible for paying invoices and orders for the chapter. Furthermore you shall actively attend meeting arranged by THS Economy council.
+As the chapter treasurer you are responsible for managing the bookkeeping and the budgeting for the chapter. You are also one of the two firmatecknare, together with the president, and you are on the alcohol license. Outside of the regular board member responsibilities, you are also responsible for paying invoices and orders for the chapter. Furthermore you shall actively attend meeting arranged by THS Economy council.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 20h/month

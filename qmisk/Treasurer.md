@@ -4,14 +4,10 @@
 
 You go to bookkeeping meetings, handle internrep, and manage budget for events. You make sure the internal budget for the committee is followed.
 
-Go too bookkeeping meetings handle intern-rep, manage the budget for events. Since I haven’t done any budget since starting I mostly make sure it is followed. 
-
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 5-10h/period.
 
 ### Experiences gained
-
-
 
 You gain a lot of experience by beeing responsibile for something that affects a lot of people. You learn a lot about how a committee works, its economy, and the importance of each roll.
 
