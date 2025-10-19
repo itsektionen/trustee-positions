@@ -20,7 +20,7 @@ Managements, writing emails, meetings, handling stressfull situations.
   <tr>
     <td>HT25</td>
     <td rowspan="2">
-      Dante "Big D" Cosentino
+      Dante Julio Cosentino
     </td>
   </tr>
   <tr>

@@ -20,7 +20,7 @@ The experiences you gain vary wildly depending on what your role is decided to b
   <tr>
     <td>HT25</td>
     <td rowspan="2">
-      Erik losing <br/> Danni Norén
+      Erik Losin <br/> Danni Norén
     </td>
   </tr>
   <tr>
