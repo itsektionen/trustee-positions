@@ -22,7 +22,7 @@ Experience with secretary work, documents, statues, motions. Insight into how bo
   <tr>
     <td>HT25</td>
     <td rowspan="2">
-      Leo Lindgren
+      Leonard Lindgren
     </td>
   </tr>
   <tr>

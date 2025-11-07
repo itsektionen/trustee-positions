@@ -39,7 +39,7 @@ Planning, organizing, communication, holding presentations
   <tr>
     <td>HT23</td>
     <td rowspan="1">
-      Adam Bodin
+      Addie Bodin (Then Adam Bodin)
     </td>
   </tr>
   <tr>

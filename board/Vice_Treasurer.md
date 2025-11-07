@@ -1,8 +1,8 @@
-## Chapter vice Cashier
+## Chapter vice Treasurer
 
 ### Description
 
-As vice cashier you assist the cashier with what they need, this can vary drastically from cashier to cashier.
+As vice treasurer you assist the treasurer with what they need, this can vary drastically from treasurer to treasurer.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 15h/period
@@ -56,7 +56,7 @@ Accounting, budgeting
   <tr>
     <td>HT21</td>
     <td rowspan="2">
-      Julio Cosentino
+      Dante Julio Cosentino
     </td>
   </tr>
   <tr>

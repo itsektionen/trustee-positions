@@ -20,7 +20,7 @@ You get to learn how to be a PR person and an administrator for company systems,
   <tr>
     <td>HT25</td>
     <td rowspan="2">
-      Vlad Li
+      Vladimir Li
     </td>
   </tr>
   <tr>

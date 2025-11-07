@@ -29,7 +29,7 @@ Patience, critical thinking and active listening have all improved with what weâ
   <tr>
     <td>HT24</td>
     <td rowspan="2">
-      Dante Cosentino
+      Dante Julio Cosentino
     </td>
   </tr>
   <tr>

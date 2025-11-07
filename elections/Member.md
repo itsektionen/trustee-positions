@@ -20,7 +20,7 @@ You get to meet a variety of people in the election committee, and you get to be
   <tr>
     <td>HT25</td>
     <td rowspan="2">
-      Simon Hedström <br/> Zak Ora <br/> Victor Karlström <br/> Dante Cosentino <br/> Benjamin Kalatsjan-Kirejevas
+      Simon Hedström <br/> Zak Ora <br/> Victor Karlström <br/> Dante Julio Cosentino <br/> Benjamin Kalatsjan-Kirejevas
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ You get to meet a variety of people in the election committee, and you get to be
   <tr>
     <td>HT22</td>
     <td rowspan="1">
-      Andrej Miladinovic <br/> Marvin Juzwiak <br/> Adam Bodin <br/> Felix Holmberg <br/> Adam Caspary
+      Andrej Miladinovic <br/> Marvin Juzwiak <br/> Addie Bodin (Then Adam Bodin) <br/> Felix Holmberg <br/> Adam Caspary
     </td>
   </tr>
   <tr>
