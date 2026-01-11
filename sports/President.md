@@ -12,10 +12,20 @@ Booking sports events that the people of the IT-chapter wants for the benefit of
 A lot of communication skills such as reading people and matching demand. A lot about booking and billing etc.. You also learn a lot of new economics skills by budgeting and lay a foundation for the activities throughout the year…
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Isak Ahlberg
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -247,5 +257,4 @@ A lot of communication skills such as reading people and matching demand. A lot 
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

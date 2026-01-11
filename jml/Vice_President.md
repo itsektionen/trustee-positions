@@ -12,10 +12,20 @@ As vice president of the JML committee you step in for the persident when they a
 You gain a good understanding of who to contact in case of discrimination/safety in the student life and some public speaking experience during the reception
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Alfred Erlandsson
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -26,5 +36,6 @@ You gain a good understanding of who to contact in case of discrimination/safety
   <tr>
     <td>VT25</td>
   </tr>
-</table>      
-      
+</table>
+
+(This role was added 2025)

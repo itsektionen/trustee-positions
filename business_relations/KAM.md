@@ -12,7 +12,8 @@ What holding the position entails. Both what it means according to the chapter b
 The experiences one gains from holding the position.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -188,5 +189,4 @@ The experiences one gains from holding the position.
   <tr>
     <td>VT07</td>
   </tr>
-</table>      
-      
+</table>

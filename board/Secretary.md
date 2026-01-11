@@ -7,17 +7,27 @@ As secretary you are responsible for the chapter’s documents. You are well-rea
 You also support chapter members who want to write and submit a motion.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 10h/ month + time sitting in StyM and SM
+- **Time Requirement:** 10h/month + time sitting in StyM and SM
 
 ### Experiences gained
 
 Experience with secretary work, documents, statues, motions. Insight into how boards and companies work. Inter-chapter relations and connections.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Douglas Lyman
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -232,5 +242,4 @@ Experience with secretary work, documents, statues, motions. Insight into how bo
   <tr>
     <td>VT02</td>
   </tr>
-</table>      
-      
+</table>

@@ -12,10 +12,20 @@ You plan and book the meetings for the election committee. The election committe
 Recruitment
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Dante Julio Cosentino
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -134,7 +144,7 @@ Recruitment
   <tr>
     <td>HT13</td>
     <td rowspan="2">
-      Olle Gynther- Zillen
+      Olle Gynther-Zillen
     </td>
   </tr>
   <tr>
@@ -216,7 +226,7 @@ Recruitment
   <tr>
     <td>HT04</td>
     <td rowspan="1">
-      Kristian valdes
+      Kristian
     </td>
   </tr>
   <tr>
@@ -247,5 +257,4 @@ Recruitment
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

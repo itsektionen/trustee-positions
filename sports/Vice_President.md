@@ -4,7 +4,6 @@
 
 As vice president you help the sports committee president with their work.
 
-
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 2-4h/week
 
@@ -13,10 +12,20 @@ As vice president you help the sports committee president with their work.
 Communication, booking, billing.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Erik Losin
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -249,5 +258,4 @@ Communication, booking, billing.
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

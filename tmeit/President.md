@@ -9,13 +9,23 @@ Head of TMEIT, you represent TMEIT in many different circumstances, like KMR, SM
 
 ### Experiences gained
 
-Management and event planning. Also managing people on a small and large scale. 
+Management and event planning. Also managing people on a small and large scale.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Dehani Ranasinghe
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -65,7 +75,7 @@ Management and event planning. Also managing people on a small and large scale.
   <tr>
     <td>HT20</td>
     <td rowspan="1">
-      jonathan randleff
+      Jonathan Randleff
     </td>
   </tr>
   <tr>
@@ -200,5 +210,4 @@ Management and event planning. Also managing people on a small and large scale.
   <tr>
     <td>VT06</td>
   </tr>
-</table>      
-      
+</table>

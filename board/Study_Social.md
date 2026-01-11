@@ -9,17 +9,27 @@ You coordinate the committees that are active in the chapter’s study social ac
 If no other person is better suited, you also attend the meetings arranged by THS Lokalråd.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 10-20h/ month
+- **Time Requirement:** 10-20h/month
 
 ### Experiences gained
 
 Communication, bookings
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Marcus Söderlund
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -138,5 +148,4 @@ Communication, bookings
       Vilho Jonsson
     </td>
   </tr>
-</table>      
-      
+</table>

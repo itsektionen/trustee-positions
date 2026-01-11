@@ -7,14 +7,15 @@ You oversee and manage the budget for the reception and help with the bookkeepin
 As a general mux you also take part in the organising and planning of the reception and help out where needed.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 20h / month during reception (August)
+- **Time Requirement:** 20h/month during reception (August)
 
 ### Experiences gained
 
 Similar to those the Treasurer gains, but on a shorter timescale. Also gaining experiences in terms of organising the reception.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -211,5 +212,4 @@ Similar to those the Treasurer gains, but on a shorter timescale. Also gaining e
   <tr>
     <td>VT03</td>
   </tr>
-</table>      
-      
+</table>

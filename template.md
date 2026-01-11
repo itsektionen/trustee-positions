@@ -15,7 +15,7 @@ The experiences one gains from holding the position.
 
 ### History
 
-<table style="undefined;table-layout: fixed; width: 326px">
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -46,7 +46,7 @@ The experiences one gains from holding the position.
 As a member of the board you perform all the board related tasks that are not handled by the precedium.
 
 - **Access Privileges:** Kistan and the Board room
-- **Time Requirement:** 10h / month.
+- **Time Requirement:** 10h/month.
 
 ### Experiences gained
 
@@ -54,7 +54,7 @@ You learn to pick up small projects and learn what it – and it's subject – i
 
 ### History
 
-<table style="undefined;table-layout: fixed; width: 326px">
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>

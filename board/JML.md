@@ -4,19 +4,28 @@
 
 As the board member responsible for JML activities you work long-term to improve equality, diversity, and equal conditions within the chapter. You are the convener of the JML workgroup and lead the work of its members. You support them in their tasks and act as the link between the workgroup and the board. As JML board member you also attend the meetings arranged by THS, the EECS school, and JML Rådet.
 
-
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 100-200h / year
+- **Time Requirement:** 100-200h/year
 
 ### Experiences gained
 
 Planning, organizing, communication, holding presentations
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Malin Andreasson
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -39,7 +48,7 @@ Planning, organizing, communication, holding presentations
   <tr>
     <td>HT23</td>
     <td rowspan="1">
-      Addie Bodin (Then Adam Bodin)
+      Adam Bodin
     </td>
   </tr>
   <tr>
@@ -48,5 +57,6 @@ Planning, organizing, communication, holding presentations
       Linnéa Wahl
     </td>
   </tr>
-</table>      
-      
+</table>
+
+(This role was added for 2023)

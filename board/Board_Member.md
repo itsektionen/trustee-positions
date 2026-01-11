@@ -8,7 +8,7 @@ important. You will attend board meetings and do smaller tasks such as writing d
 The biggest task that you might do is plan the thankyou-party for all the trustees.
 
 - **Access Privileges:** Kistan and the board room.
-- **Time Requirement:** 10-15h / month.
+- **Time Requirement:** 10-15h/month.
 
 ### Experiences gained
 
@@ -16,11 +16,30 @@ You will learn how meetings are done and take responsibility for projects big an
 
 ### History
 
-<table style="undefined;table-layout: fixed;">
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
   </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Joel Lagerberg
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Albin Durfors
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
+  </tr>
+  <tr>
   <tr>
     <td>HT25</td>
     <td rowspan="2">

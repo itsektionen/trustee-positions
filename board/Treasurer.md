@@ -12,10 +12,20 @@ As the chapter treasurer you are responsible for managing the bookkeeping and th
 You learn a lot about bookkeeping, alcohol laws and regulations, and a lot about the structure and workings of the Chapter as an organisation.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Dylan Horn Kreiner
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -226,5 +236,4 @@ You learn a lot about bookkeeping, alcohol laws and regulations, and a lot about
   <tr>
     <td>VT03</td>
   </tr>
-</table>      
-      
+</table>

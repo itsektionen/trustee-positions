@@ -2,7 +2,7 @@
 
 ### Description
 
-Helping QM fulfill all their duties. 
+Helping QM fulfill all their duties.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 1-10h/week (60h blootet week)
@@ -12,7 +12,8 @@ Helping QM fulfill all their duties.
 Leadership and organizational skills
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -188,5 +189,4 @@ Leadership and organizational skills
       Emmy Slinge
     </td>
   </tr>
-</table>      
-      
+</table>

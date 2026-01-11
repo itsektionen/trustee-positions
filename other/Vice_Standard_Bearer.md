@@ -2,20 +2,30 @@
 
 ### Description
 
-As vice fanbärare your role is very similar to head fanbärare.  Your responsibility is to ensure that you present yourself and your chapter in a good light, help and support your head fanbärare, make sure that the chapter flag/banner is in good state and show up to as many fanborgs events as possible. Usually this is an honoured position reserved in first place for people who have contributed to the chapter in a positive way. You will meet and mingle with other representatives from other chapters and sometimes even the attendees, good conversation skills are a great bonus! 
+As vice fanbärare your role is very similar to head fanbärare. Your responsibility is to ensure that you present yourself and your chapter in a good light, help and support your head fanbärare, make sure that the chapter standard is in good state and show up to as many fanborgs events as possible. Usually this is an honoured position reserved in first place for people who have contributed to the chapter in a positive way. You will meet and mingle with other representatives from other chapters and sometimes even the attendees, good conversation skills are a great bonus!
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** Around 7 days/ year.
+- **Time Requirement:** Around 7 days/year.
 
 ### Experiences gained
 
 Conversation skills, formal manners
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Dylan Horn Kreiner
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -155,5 +165,4 @@ Conversation skills, formal manners
   <tr>
     <td>VT11</td>
   </tr>
-</table>      
-      
+</table>

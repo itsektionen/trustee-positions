@@ -5,17 +5,27 @@
 Support Root in whatever way possible to help run and make ITK the best it can be.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 8-10h/ month
+- **Time Requirement:** 8-10h/month
 
 ### Experiences gained
 
 You learn how handle different tasks and problem solve. Also how to help and handle other people.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Benedek Boldizsár
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -170,5 +180,4 @@ You learn how handle different tasks and problem solve. Also how to help and han
   <tr>
     <td>VT09</td>
   </tr>
-</table>      
-      
+</table>

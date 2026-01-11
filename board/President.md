@@ -14,10 +14,20 @@ As president you are part of the THS Presidents Council, which means you attend 
 Managements, writing emails, meetings, handling stressfull situations.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Julle Juliusson Keuschnig
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -244,5 +254,4 @@ Managements, writing emails, meetings, handling stressfull situations.
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

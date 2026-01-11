@@ -12,10 +12,20 @@ As vice president of the business relations committee you step in for the presid
 Managment, communication, networking, organization, CRM
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Alex Hagdahl
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -120,5 +130,4 @@ Managment, communication, networking, organization, CRM
   <tr>
     <td>VT15</td>
   </tr>
-</table>      
-      
+</table>

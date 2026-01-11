@@ -2,19 +2,29 @@
 
 ### Description
 
-You are responsible for giving opinions to the teachers relating to issues regarding students studying in the TCOMK programme. You tae part in study board meetings to try to come up with ways to further the quality of the education at our chapter. You are also required to be an easily approachable student who can help out with questions or problems regarding education (for example if there have been some sort of serious misunderstanding between students and course organisers, or if two exams are overlapping). 
+You are responsible for giving opinions to the teachers relating to issues regarding students studying in the TCOMK programme. You tae part in study board meetings to try to come up with ways to further the quality of the education at our chapter. You are also required to be an easily approachable student who can help out with questions or problems regarding education (for example if there have been some sort of serious misunderstanding between students and course organisers, or if two exams are overlapping).
 
-- **Time Requirement:** 5-10h/ month.
+- **Time Requirement:** 5-10h/month.
 
 ### Experiences gained
 
 You learn a lot about how the courses rely on each other for the TCOMK programme, about how different teachers/professors see the education compared to students. You also learn to forward and hear out a multitude of opinions regarding education.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Milana Timonina
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -129,5 +139,4 @@ You learn a lot about how the courses rely on each other for the TCOMK programme
   <tr>
     <td>VT14</td>
   </tr>
-</table>      
-      
+</table>

@@ -2,17 +2,17 @@
 
 ### Description
 
-As INGEN you are utmost responsible for the reception, meaning you have to make sure that everything that needs to get done before and during reception is done. You will together with NÅGON build a strong team to accomplish your goals. 
+As INGEN you are utmost responsible for the reception, meaning you have to make sure that everything that needs to get done before and during reception is done. You will together with NÅGON build a strong team to accomplish your goals.
 
 Especially important items:
+
 - Booking and collision resolution for the Nymble premises and areas you want
 - Recruit MUXes
 - Oversee recruitment of Fadders
 
-Starting late fall there will be monthly meetings with THS and the reception heads from other chapters. 
+Starting late fall there will be monthly meetings with THS and the reception heads from other chapters.
 
 During the actual reception you will execute what you planned before and find solutions for any problems that may come up.
-
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** 5-8h /week during winter. A bit less during spring. 10-20h /week during summer. 12h/day minimum during the first week of reception.
@@ -22,10 +22,20 @@ During the actual reception you will execute what you planned before and find so
 Planning and organizing, communication
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Viggo Tinge
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -250,5 +260,4 @@ Planning and organizing, communication
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

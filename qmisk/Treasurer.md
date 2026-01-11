@@ -12,7 +12,8 @@ You go to bookkeeping meetings, handle internrep, and manage budget for events. 
 You gain a lot of experience by beeing responsibile for something that affects a lot of people. You learn a lot about how a committee works, its economy, and the importance of each roll.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -171,5 +172,4 @@ You gain a lot of experience by beeing responsibile for something that affects a
   <tr>
     <td>VT09</td>
   </tr>
-</table>      
-      
+</table>

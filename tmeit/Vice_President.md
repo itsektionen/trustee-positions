@@ -5,17 +5,27 @@
 You send, confirm, and store festanmälans. You go to some (not all) KMR-råd and Pub-råd. You partake in the booking meetings and master meetings. You occasionally make forms, update documents, and write to people in TMEIT when needed.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 20-30h / month
+- **Time Requirement:** 20-30h/month
 
 ### Experiences gained
 
 You improve leadership skills, communication skills, and gain a better understanding of how TMEIT as a committee functions.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Viktor Sandström
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -198,5 +208,4 @@ You improve leadership skills, communication skills, and gain a better understan
   <tr>
     <td>VT06</td>
   </tr>
-</table>      
-      
+</table>

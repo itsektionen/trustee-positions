@@ -3,11 +3,12 @@
 ### Description
 
 As SNO you are the president of the study committee. Among the tasks related to the role are:
+
 - Keeping contact with all PAS, keeping them informed with the information you get.
 - Schedule meetings with the study committee.
 - Attend meetings and meet-ups hosted by THS, most importantly UR (utbildningsråd).
 - Attend PR(programråd) twice per year hosted by the program responsible teachers at KTH.
-- Look at the proposed schedules for coming terms. 
+- Look at the proposed schedules for coming terms.
 - Continuously keep in contact with the students of the chapter.
 
 --
@@ -20,10 +21,20 @@ As SNO you are the president of the study committee. Among the tasks related to 
 You learn a lot about the education at KTH as a whole and also have a good platform to meet new people who also care about the education at KTH.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Madelaine Bunao
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -253,5 +264,4 @@ You learn a lot about the education at KTH as a whole and also have a good platf
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

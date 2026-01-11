@@ -12,7 +12,8 @@ MUX are the reception board members, but only some are trustee elected. As a MUX
 The experiences you gain vary wildly depending on what your role is decided to be.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -65,7 +66,7 @@ The experiences you gain vary wildly depending on what your role is decided to b
   <tr>
     <td>HT20</td>
     <td rowspan="2">
-      Tom valdes <br/> Samuel Larsson <br/> Diran valdes
+      Tom <br/> Samuel Larsson <br/> Diran
     </td>
   </tr>
   <tr>
@@ -116,5 +117,4 @@ The experiences you gain vary wildly depending on what your role is decided to b
   <tr>
     <td>VT15</td>
   </tr>
-</table>      
-      
+</table>

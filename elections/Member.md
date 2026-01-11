@@ -12,10 +12,20 @@ As election committee member its your job to motivate people to go for roles in 
 You get to meet a variety of people in the election committee, and you get to be a part of the democratic process
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Alexandra Andersson <br> Leonard Lindgren <br> Jonathan Nilsson Cullgert <br> Denise Hommik <br> Viggo Tinge <br> Adam Brolin
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -241,5 +251,4 @@ You get to meet a variety of people in the election committee, and you get to be
   <tr>
     <td>VT02</td>
   </tr>
-</table>      
-      
+</table>

@@ -5,17 +5,27 @@
 As vice president you step in for the president when they are absent and take over their responsibilities. You also handle the tasks that you and the president agree to delegate.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 20h/ month
+- **Time Requirement:** 20h/month
 
 ### Experiences gained
 
 Managements, writing emails, meetings, handling stressfull situations.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Justus Kluge
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -227,5 +237,4 @@ Managements, writing emails, meetings, handling stressfull situations.
   <tr>
     <td>VT03</td>
   </tr>
-</table>      
-      
+</table>

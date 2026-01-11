@@ -11,17 +11,27 @@
 ---
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 20h/ term
+- **Time Requirement:** 20h/term
 
 ### Experiences gained
 
 How programs and courses are organized behind the scenes
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Melissa Kryou
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -133,5 +143,4 @@ How programs and courses are organized behind the scenes
   <tr>
     <td>VT14</td>
   </tr>
-</table>      
-      
+</table>

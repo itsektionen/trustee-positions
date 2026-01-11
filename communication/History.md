@@ -13,13 +13,23 @@ You make sure that all committees maintain their part of the PM of traditions, a
 
 ### Experiences gained
 
-Chapter history
+Chapter history and contacts with old chapter members.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Hugo Bachér
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -73,5 +83,4 @@ Chapter history
   <tr>
     <td>VT20</td>
   </tr>
-</table>      
-      
+</table>

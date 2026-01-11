@@ -12,10 +12,20 @@ It's the chapters Honorary Position. It's given to people that have been very ac
 Infinite
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Moa Fredriksson
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -202,5 +212,4 @@ Infinite
   <tr>
     <td>VT05</td>
   </tr>
-</table>      
-      
+</table>

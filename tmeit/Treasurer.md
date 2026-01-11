@@ -12,10 +12,20 @@ On top of participating in the general work, ie meetings and planning work, you 
 Conducting meetings, long term planning, handling finances and to a certain degree HR/management skills.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Marcus Söderlund
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -183,5 +193,4 @@ Conducting meetings, long term planning, handling finances and to a certain degr
   <tr>
     <td>VT06</td>
   </tr>
-</table>      
-      
+</table>

@@ -1,15 +1,15 @@
-## Head Safety Officer
+## Fredman
 
 ### Description
 
-Ensuring that students feel safe and comfortable among themselves and within KTHs locales, keeping in contact with THS and the chapters board if they do not.
+The vice president of the club Strängteoretiquerna.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** Depends on what happens, could be no time, could be 2-3h/day.
+- **Time Requirement:** An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position.
 
 ### Experiences gained
 
-Patience, critical thinking and active listening have all improved with what we’ve dealt with
+Songs and student culture.
 
 ### History
 
@@ -21,124 +21,96 @@ Patience, critical thinking and active listening have all improved with what we�
   <tr>
     <td>HT26</td>
     <td rowspan="2">
-      Frans Ekberg
-    </td>
+		Hugo Bachér
+	</td>
   </tr>
   <tr>
-    <td>VT26</td>
+    <td>HT26</td>
   </tr>
   <tr>
     <td>HT25</td>
-    <td rowspan="2">
-      Adem Ramström
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT25</td>
   </tr>
   <tr>
     <td>HT24</td>
-    <td rowspan="2">
-      Dante Julio Cosentino
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT24</td>
   </tr>
   <tr>
     <td>HT23</td>
-    <td rowspan="2">
-      Silvia Lin Lü
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT23</td>
   </tr>
   <tr>
     <td>HT22</td>
-    <td rowspan="2">
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT22</td>
   </tr>
   <tr>
     <td>HT21</td>
-    <td rowspan="2">
-	  William Axbrink
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT21</td>
   </tr>
   <tr>
     <td>HT20</td>
-    <td rowspan="2">
-      Axel Forshällen
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT20</td>
   </tr>
   <tr>
     <td>HT19</td>
-    <td rowspan="2">
-      Sara Ersson
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT19</td>
   </tr>
   <tr>
     <td>HT18</td>
-    <td rowspan="2">
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT18</td>
   </tr>
   <tr>
     <td>HT17</td>
-    <td rowspan="2">
-      Martin Erwe
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT17</td>
   </tr>
   <tr>
     <td>HT16</td>
-    <td rowspan="2">
-      Celine Mileikowsky
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT16</td>
   </tr>
   <tr>
     <td>HT15</td>
-    <td rowspan="2">
-      Emelie Lindh
-    </td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>VT15</td>
   </tr>
   <tr>
     <td>HT14</td>
-    <td rowspan="1">
-      Emelie Lindh
+    <td rowspan="2">
+	  Emelie Bellman Holm
     </td>
   </tr>
   <tr>
     <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
   </tr>
 </table>

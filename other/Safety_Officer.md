@@ -16,10 +16,20 @@ Informally, you are the person to talk to if stuff goes wrong in between student
 Conflict mediation, conflict assessment, technically counselling (you are not meant to but sometimes it happens anyway).
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Agnes Lind <br> Alfred Erlandsson <br> Evelina Fridmane
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -60,13 +70,6 @@ Conflict mediation, conflict assessment, technically counselling (you are not me
       Rebecka Rönnbäck <br/> Robin Argin
     </td>
   </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      William Axbrink
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
 </table>
+
+(This role was added in 2022, before there was only a single Safety Officer, which can be found in [Head Safety Officer](./Head_Safety_Officer.md))

@@ -12,7 +12,8 @@ You are responsible for Qmisks operations and continuation. You are the committe
 Conflict management, leadership skills, moderating meetings, holding meetings according to official meeting formalities.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -176,5 +177,4 @@ Conflict management, leadership skills, moderating meetings, holding meetings ac
   <tr>
     <td>VT09</td>
   </tr>
-</table>      
-      
+</table>

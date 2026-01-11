@@ -5,17 +5,27 @@
 Lil-StURe is responsible together with StURe to hold SMN Mondays. This entails being there and directing people / making sure they're not breaking Kistan. They're both responsible to report stuff broken in the study environment to KTH or Akademiska Hus.
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** 100h / year
+- **Time Requirement:** 100h/year
 
 ### Experiences gained
 
 Software, Hardware, Organizing, Communication, Planning, Project Leadership
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Tobias Stridsberg
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -237,5 +247,4 @@ Software, Hardware, Organizing, Communication, Planning, Project Leadership
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

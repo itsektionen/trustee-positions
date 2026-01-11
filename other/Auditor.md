@@ -12,10 +12,20 @@ As Auditor you review the chapters accounting and management to make sure they f
 You learn a lot about the bylaws throughout the year. You also learn a lot through the annual report.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Dante Julio Cosentino <br> Simon Hedström
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -246,5 +256,4 @@ You learn a lot about the bylaws throughout the year. You also learn a lot throu
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

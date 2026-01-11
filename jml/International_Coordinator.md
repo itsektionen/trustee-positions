@@ -12,10 +12,20 @@ Organizing the international reception.
 Organizing events from conceptualization to actualisation. I've also learnt 10 new ways saying sorry for responding to emails late.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Eli Ventura Gabarró
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -153,5 +163,4 @@ Organizing events from conceptualization to actualisation. I've also learnt 10 n
   <tr>
     <td>VT10</td>
   </tr>
-</table>      
-      
+</table>

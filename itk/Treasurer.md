@@ -12,7 +12,8 @@ You do ITK budget and secretary work.
 Understanding of company budgeting, access to kistan.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
@@ -35,5 +36,4 @@ Understanding of company budgeting, access to kistan.
   <tr>
     <td>VT24</td>
   </tr>
-</table>      
-      
+</table>

@@ -14,10 +14,20 @@ Your tasks include arranging and taking part in course and program evaluations, 
 Huge insight into the studies and why they are structured the way they are.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      August Larsson
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -131,5 +141,4 @@ Huge insight into the studies and why they are structured the way they are.
   <tr>
     <td>VT14</td>
   </tr>
-</table>      
-      
+</table>

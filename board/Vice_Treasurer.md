@@ -12,10 +12,20 @@ As vice treasurer you assist the treasurer with what they need, this can vary dr
 Accounting, budgeting
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Ellen Gronholm
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -160,5 +170,4 @@ Accounting, budgeting
   <tr>
     <td>VT10</td>
   </tr>
-</table>      
-      
+</table>

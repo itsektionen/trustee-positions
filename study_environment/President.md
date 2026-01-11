@@ -12,10 +12,20 @@ Committee president of the Studie Environment Committee (SMN) which ensures good
 Loads of technical knowhow and some adiminstrative components.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Fredrik Linderhed
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -237,5 +247,4 @@ Loads of technical knowhow and some adiminstrative components.
   <tr>
     <td>VT01</td>
   </tr>
-</table>      
-      
+</table>

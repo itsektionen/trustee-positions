@@ -12,10 +12,20 @@ Root means being the president of ITK, at a bare minimum that means holding sena
 How to run a volunteer organization
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Paola Claudio Fonseca
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -170,5 +180,4 @@ How to run a volunteer organization
   <tr>
     <td>VT09</td>
   </tr>
-</table>      
-      
+</table>

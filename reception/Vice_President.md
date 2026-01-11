@@ -9,13 +9,23 @@ Vice Head of Reception - Preparing and organizing this years reception.
 
 ### Experiences gained
 
-Organizing events, conducting interviews, time management, coordination of groups, public speaking, working in a team, learning the perks of KTH ^^. 
+Organizing events, conducting interviews, time management, coordination of groups, public speaking, working in a team, learning the perks of KTH ^^.
 
 ### History
-<table style="undefined;table-layout: fixed;">
+
+<table>
   <tr>
     <th>Period</th>
     <th>Occupant(s)</th>
+  </tr>
+  <tr>
+    <td>HT26</td>
+    <td rowspan="2">
+      Elina Wang
+    </td>
+  </tr>
+  <tr>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
@@ -176,5 +186,4 @@ Organizing events, conducting interviews, time management, coordination of group
   <tr>
     <td>VT09</td>
   </tr>
-</table>      
-      
+</table>
