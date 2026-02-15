@@ -25,7 +25,7 @@ The experiences one gains from holding the position.
 	</td>
   </tr>
   <tr>
-    <td>HT26</td>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
