@@ -21,11 +21,11 @@ Songs and student culture.
   <tr>
     <td>HT26</td>
     <td rowspan="2">
-		Hugo Bachér
+		Julle Juliusson Keuschnig
 	</td>
   </tr>
   <tr>
-    <td>HT26</td>
+    <td>VT26</td>
   </tr>
   <tr>
     <td>HT25</td>
