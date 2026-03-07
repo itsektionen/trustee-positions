@@ -3,6 +3,7 @@
 ### Description
 
 The vice president of the club Strängteoretiquerna.
+"den framgångsrike urmakare och affärsman, som har en administrativ och sammankallande roll."
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position.
@@ -99,16 +100,20 @@ Songs and student culture.
   </tr>
   <tr>
     <td>HT15</td>
-    <td rowspan="2"></td>
+    <td>
+	</td>
   </tr>
   <tr>
     <td>VT15</td>
+	<td>
+	  Björn Eklöf
+	  </td>
   </tr>
   <tr>
     <td>HT14</td>
     <td rowspan="2">
-	  Emelie Bellman Holm
-    </td>
+	  Björn Eklöf
+	</td>
   </tr>
   <tr>
     <td>VT14</td>

@@ -3,6 +3,7 @@
 ### Description
 
 The president of the club Strängteoretiquerna.
+"Extraordinarius och underhållare, som skall se till att samtliga strängteoretiquers underhållningsbehov tillgodoses."
 
 - **Access Privileges:** What areas the position has access to that the normal student doesn't.
 - **Time Requirement:** An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position.
@@ -99,24 +100,22 @@ The experiences one gains from holding the position.
   </tr>
   <tr>
     <td>HT15</td>
-    <td rowspan="2"></td>
+    <td>
+	</td>
   </tr>
   <tr>
     <td>VT15</td>
+	<td>
+	  Emelie Holm
+	  </td>
   </tr>
   <tr>
     <td>HT14</td>
-    <td rowspan="2"></td>
+    <td rowspan="2">
+	  Emelie Holm
+	</td>
   </tr>
   <tr>
     <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
   </tr>
 </table>
