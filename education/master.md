@@ -23,7 +23,7 @@ Huge insight into the studies and why they are structured the way they are.
   <tr>
     <td>HT26</td>
     <td rowspan="2">
-      Jonathan NIlsson Cullgert
+      Jonathan Nilsson Cullgert
     </td>
   </tr>
   <tr>
