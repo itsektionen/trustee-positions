@@ -75,7 +75,7 @@ Huge insight into the studies and why they are structured the way they are.
   <tr>
     <td>HT20</td>
     <td rowspan="1">
-      Valter Lundegårdh valdes
+      Valter Lundegårdh
     </td>
   </tr>
   <tr>
