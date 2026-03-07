@@ -21,7 +21,7 @@ Accounting, budgeting
   <tr>
     <td>HT26</td>
     <td rowspan="2">
-      Ellen Gronholm
+      Ellen Grönholm
     </td>
   </tr>
   <tr>
