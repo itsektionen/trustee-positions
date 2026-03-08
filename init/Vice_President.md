@@ -1,15 +1,15 @@
-## Fredman
+## Kernel
 
 ### Description
 
-The vice president of the club Strängteoretiquerna.
+The vice president of init. They are responsible with maintaining the chapters software infrastructure alongside Bootloader.
 
-- **Access Privileges:** What areas the position has access to that the normal student doesn't.
-- **Time Requirement:** An estimate of how much time will be spent over a period (month, term, year, ect.) holding that position.
+- **Access Privileges:** None.
+- **Time Requirement:** 5-10h/week
 
 ### Experiences gained
 
-Songs and student culture.
+Leadership in a software development environment, code reviewing, managing software projects.
 
 ### History
 
