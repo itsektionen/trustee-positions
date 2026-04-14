@@ -13,20 +13,8 @@ The experiences one gains from holding the position.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-	  Alexandra Andersson
-	</td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-</table>
+| Year | Spring              | Fall                |
+| ---- | ------------------- | ------------------- |
+| 2026 | Alexandra Andersson | Alexandra Andersson |
 
 (This role was added for 2026)

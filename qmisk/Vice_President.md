@@ -13,180 +13,23 @@ Leadership and organizational skills
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="1">
-      Alexander Lapin Pashchenko
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-    <td rowspan="2">
-      Evelina Berg
-    </td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-    <td>
-      Mattias Ritze
-    </td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Tegar Björkdahl
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td rowspan="2">
-      Simon Hedström
-    </td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-    <td rowspan="2">
-      Rikard Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-    <td rowspan="2">
-      Daniel Nordin
-    </td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-    <td rowspan="2">
-      Melik Atabeyli
-    </td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-    <td rowspan="2">
-      Oscar Meyer
-    </td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-    <td rowspan="2">
-      ​Sebastian​ ​Andersson
-    </td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td rowspan="2">
-      Gustaf Eriksson
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Michael Chlebek
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="1">
-      John Åkerhielm
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-    <td>
-      Sofie Elvekjaer
-    </td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Dan Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="1">
-      Astrid Gunne
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-    <td>
-      Stefan Jizzefsson
-    </td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="1">
-      Anton Lindberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-    <td>
-      Jerry Pal
-    </td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Patrik Nyman
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Fredrik Cederquist
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="1">
-      Joakim Fred
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-    <td>
-      Emmy Slinge
-    </td>
-  </tr>
-</table>
+| Year | Spring                     | Fall                       |
+| ---- | -------------------------- | -------------------------- |
+| 2065 | Alexander Lapin Pashchenko |                            |
+| 2025 | Evelina Berg               | Alexander Lapin Pashchenko |
+| 2024 | Mattias Ritze              | Evelina Berg               |
+| 2023 | Simon Hedström             | Tegar Björkdahl            |
+| 2022 | Rikard Johansson           | Simon Hedström             |
+| 2021 | Daniel Nordin              | Rikard Johansson           |
+| 2020 | Melik Atabeyli             | Daniel Nordin              |
+| 2019 | Oscar Meyer                | Melik Atabeyli             |
+| 2018 | ​Sebastian​ ​Andersson        | Oscar Meyer                |
+| 2017 | Gustaf Eriksson            | ​Sebastian​ ​Andersson        |
+| 2016 | Michael Chlebek            | Gustaf Eriksson            |
+| 2015 | Sofie Elvekjaer            | John Åkerhielm             |
+| 2014 | Dan Karlsson               | Dan Karlsson               |
+| 2013 | Stefan Jizzefsson          | Astrid Gunne               |
+| 2012 | Jerry Pal                  | Anton Lindberg             |
+| 2011 | Patrik Nyman               | Patrik Nyman               |
+| 2010 | Fredrik Cederquist         | Fredrik Cederquist         |
+| 2009 | Emmy Slinge                | Joakim Fred                |

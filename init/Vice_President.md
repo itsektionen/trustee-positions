@@ -13,20 +13,8 @@ Leadership in a software development environment, code reviewing, managing softw
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-	  Mattias Mats Mathew Matte Orahem
-	</td>
-  </tr>
-  <tr>
-    <td>HT26</td>
-  </tr>
-</table>
+| Year | Spring                           | Fall                             |
+| ---- | -------------------------------- | -------------------------------- |
+| 2026 | Mattias Mats Mathew Matte Orahem | Mattias Mats Mathew Matte Orahem |
 
 (Role added for 2026)

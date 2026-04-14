@@ -15,132 +15,18 @@ Managment, communication, networking, organization, CRM
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Kevin Gregard
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Alexander Lapin Pashchenko
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Rozhan Hannah Asadi
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Rozhan Asadi
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Oscar Persson
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Emilia Jakobson Stålhane
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Artur Amcoff
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Artur Amcoff
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Celine Mileikowsky
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Celine​ ​Mileikowsky​
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td>
-      Sofia Söderström
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Sofia Söderström
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="1">
-      Sofia Söderström
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-    <td>
-      Marcus Elwin
-    </td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Marcus Elwin
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-</table>
+| Year | Spring                     | Fall                       |
+| ---- | -------------------------- | -------------------------- |
+| 2026 | Kevin Gregard              | Kevin Gregard              |
+| 2025 | Alexander Lapin Pashchenko | Alexander Lapin Pashchenko |
+| 2024 | Rozhan Asadi               | Rozhan Asadi               |
+| 2023 | Rozhan Asadi               | Rozhan Asadi               |
+| 2022 | Oscar Persson              | Oscar Persson              |
+| 2021 | Emilia Jakobson Stålhane   | Emilia Jakobson Stålhane   |
+| 2020 | Artur Amcoff               | Artur Amcoff               |
+| 2019 | Artur Amcoff               | Artur Amcoff               |
+| 2018 | Celine Mileikowsky         | Celine Mileikowsky         |
+| 2017 | Sofia Söderström           | Celine​ ​Mileikowsky​         |
+| 2016 | Sofia Söderström           | Sofia Söderström           |
+| 2015 | Marcus Elwin               | Sofia Söderström           |
+| 2014 | Marcus Elwin               | Marcus Elwin               |

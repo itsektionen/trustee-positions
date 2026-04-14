@@ -13,163 +13,23 @@ You gain a lot of experience by beeing responsibile for something that affects a
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="1">
-      Sanna Lindberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-    <td>
-      Emelie Olers <br/> Sanna Lindberg
-    </td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="1">
-      Emelie Olers
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-    <td rowspan="2">
-      Rasmus Sjöberg
-    </td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td rowspan="2">
-      Ludvig Grim
-    </td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-    <td rowspan="1">
-      Ludvig Grim
-    </td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Joachim Toft
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="1">
-      Alexander Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-    <td>
-      Astrid Gunne
-    </td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Viktor Pedersen
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Alexandra Hänel
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Joakim Nordström
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-</table>
+| Year | Spring           | Fall                |
+| ---- | ---------------- | ------------------- |
+| 2026 | Sanna Lindberg   |                     |
+| 2025 | Emelie Olers     | Sanna Lindberg      |
+| 2024 | Rasmus Sjöberg   | Emelie Olers        |
+| 2023 | Ludvig Grim      | Rasmus Sjöberg      |
+| 2022 | Ludvig Grim      | Ludvig Grim         |
+| 2021 |                  |                     |
+| 2020 |                  |                     |
+| 2019 |                  |                     |
+| 2018 |                  |                     |
+| 2017 |                  |                     |
+| 2016 |                  |                     |
+| 2015 |                  |                     |
+| 2014 | Joachim Toft     | Joachim Toft        |
+| 2013 | Astrid Gunne     | Alexander Johansson |
+| 2012 | Viktor Pedersen  | Viktor Pedersen     |
+| 2011 | Alexandra Hänel  | Alexandra Hänel     |
+| 2010 | Joakim Nordström | Joakim Nordström    |
+| 2009 |                  |                     |

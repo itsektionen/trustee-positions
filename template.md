@@ -15,27 +15,10 @@ The experiences one gains from holding the position.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">Holder of position during this period</td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">Holder of position during this period</td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td rowspan="1">Holder of position during this period</td>
-  </tr>
-</table>
+| Year | Spring                                | Fall                                  |
+| ---- | ------------------------------------- | ------------------------------------- |
+| 2018 | Holder of position during this period | Holder of position during this period |
+| 2017 | Holder of position during this period | Holder of position during this period |
 
 # Example
 
@@ -54,32 +37,7 @@ You learn to pick up small projects and learn what it – and it's subject – i
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="1">Anton Werelius</td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-    <td rowspan="1">
-      Anton Werelius
-      <br />
-      Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Jenny Eklund-Isaksson
-      <br />
-      Emma Good
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-</table>
+| Year | Spring                           | Fall                             |
+| ---- | -------------------------------- | -------------------------------- |
+| 2018 | Anton Werelius, Justin Lex       | Anton Werelius                   |
+| 2017 | Jenny Eklund-Isaksson, Emma Good | Jenny Eklund-Isaksson, Emma Good |

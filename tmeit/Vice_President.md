@@ -13,199 +13,26 @@ You improve leadership skills, communication skills, and gain a better understan
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Viktor Sandström
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Dante Solender
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Dehani Ranasinghe
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Silvia Lin Lü
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Marcus Lagerman
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Mattias Lind
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Artur Amcoff
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Alexandra Kolonia
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Vidar Särnesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Niclas Damström
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Steven Ly
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="1">
-      Erik Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-    <td>
-      Erik Nordell
-    </td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Emma Ström
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Patrik Karlsten
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Irina Galiulina
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Fredriks Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Cesar Benulic
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Joel Nilsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Niklas Söderlund
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-</table>
+| Year | Spring            | Fall              |
+| ---- | ----------------- | ----------------- |
+| 2026 | Viktor Sandström  | Viktor Sandström  |
+| 2025 | Dante Solender    | Dante Solender    |
+| 2024 | Dehani Ranasinghe | Dehani Ranasinghe |
+| 2023 | Silvia Lin Lü     | Silvia Lin Lü     |
+| 2022 | Marcus Lagerman   | Marcus Lagerman   |
+| 2021 | Mattias Lind      | Mattias Lind      |
+| 2020 | Artur Amcoff      | Artur Amcoff      |
+| 2019 | Alexandra Kolonia | Alexandra Kolonia |
+| 2018 | Vidar Särnesjö    | Vidar Särnesjö    |
+| 2017 | Niclas Damström   | Niclas Damström   |
+| 2016 | Steven Ly         | Steven Ly         |
+| 2015 | Erik Nordell      | Erik Henriksson   |
+| 2014 | Emma Ström        | Emma Ström        |
+| 2013 | Patrik Karlsten   | Patrik Karlsten   |
+| 2012 | Irina Galiulina   | Irina Galiulina   |
+| 2011 | Fredriks Sievers  | Fredriks Sievers  |
+| 2010 | Cesar Benulic     | Cesar Benulic     |
+| 2009 |                   |                   |
+| 2008 | Joel Nilsson      | Joel Nilsson      |
+| 2007 |                   |                   |
+| 2006 | Niklas Söderlund  | Niklas Söderlund  |

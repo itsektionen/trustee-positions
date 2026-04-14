@@ -17,135 +17,18 @@ Communication, bookings
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Marcus Söderlund
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Simon Hedström
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Albin Durfors
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Ludvig Knutsson Mendoza
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Erik Almqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Niloofar Rahmani
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="1">
-      Niloofar Rahmani
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-    <td>
-      Katarina Lindmark
-    </td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="1">
-      Cornelia Sundqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-    <td>
-       Joar Bergmark
-    </td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Erik Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Sebastian Porling
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Fredrik Niklasson
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Jacob Arvidsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Jacob Arvidsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-    <td>
-      Vilho Jonsson
-    </td>
-  </tr>
-</table>
+| Year | Spring                  | Fall                    |
+| ---- | ----------------------- | ----------------------- |
+| 2026 | Marcus Söderlund        | Marcus Söderlund        |
+| 2025 | Simon Hedström          | Simon Hedström          |
+| 2024 | Albin Durfors           | Albin Durfors           |
+| 2023 | Ludvig Knutsson Mendoza | Ludvig Knutsson Mendoza |
+| 2022 | Erik Almqvist           | Erik Almqvist           |
+| 2021 | Niloofar Rahmani        | Niloofar Rahmani        |
+| 2020 | Katarina Lindmark       | Niloofar Rahmani        |
+| 2019 | Joar Bergmark           | Cornelia Sundqvist      |
+| 2018 | Erik Henriksson         | Erik Henriksson         |
+| 2017 | Sebastian Porling       | Sebastian Porling       |
+| 2016 | Fredrik Niklasson       | Fredrik Niklasson       |
+| 2015 | Jacob Arvidsson         | Jacob Arvidsson         |
+| 2014 | Vilho Jonsson           | Jacob Arvidsson         |

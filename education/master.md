@@ -15,129 +15,18 @@ Huge insight into the studies and why they are structured the way they are.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Jonathan Nilsson Cullgert
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Jonathan Lundström
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="1">
-      Oscar Garayeli
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-    <td>
-      William Asp
-    </td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Mille af Rolén
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td>
-      Marc Lorenz Döhmer
-    </td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Christopher Gustafson
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Diran Bajwa
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Gustav Engström
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Matilda Taube
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Mohamed Atwa
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Jasper Hahn
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-</table>
+| Year | Spring                    | Fall                      |
+| ---- | ------------------------- | ------------------------- |
+| 2026 | Jonathan Nilsson Cullgert | Jonathan Nilsson Cullgert |
+| 2025 | Jonathan Lundström        | Jonathan Lundström        |
+| 2024 | William Asp               | Oscar Garayeli            |
+| 2023 | Marc Lorenz Döhmer        | Mille af Rolén            |
+| 2022 |                           |                           |
+| 2021 | Christopher Gustafson     | Christopher Gustafson     |
+| 2020 | Diran Bajwa               | Diran Bajwa               |
+| 2019 |                           |                           |
+| 2018 |                           |                           |
+| 2017 |                           | Gustav Engström           |
+| 2016 | Matilda Taube             | Matilda Taube             |
+| 2015 | Mohamed Atwa              | Mohamed Atwa              |
+| 2014 | Jasper Hahn               | Jasper Hahn               |

@@ -13,27 +13,7 @@ Understanding of company budgeting, access to kistan.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Tobias Altin
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Katya Holmberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-</table>
+| Year | Spring         | Fall           |
+| ---- | -------------- | -------------- |
+| 2025 | Tobias Altin   | Tobias Altin   |
+| 2024 | Katya Holmberg | Katya Holmberg |

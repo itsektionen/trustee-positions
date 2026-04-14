@@ -13,50 +13,11 @@ Planning, organizing, communication, holding presentations
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Malin Andreasson
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Julle Juliusson Keuschnig
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Samia Serbouti
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Adam Bodin
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td>
-      Linnéa Wahl
-    </td>
-  </tr>
-</table>
+| Year | Spring                    | Fall                      |
+| ---- | ------------------------- | ------------------------- |
+| 2026 | Malin Andreasson          | Malin Andreasson          |
+| 2025 | Julle Juliusson Keuschnig | Julle Juliusson Keuschnig |
+| 2024 | Samia Serbouti            | Samia Serbouti            |
+| 2023 | Linnéa Wahl               | Adam Bodin                |
 
 (This role was added for 2023)

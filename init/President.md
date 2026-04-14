@@ -13,20 +13,8 @@ The experiences one gains from holding the position.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-		Simon Hedström
-	</td>
-  </tr>
-  <tr>
-    <td>HT26</td>
-  </tr>
-</table>
+| Year | Spring         | Fall           |
+| ---- | -------------- | -------------- |
+| 2026 | Simon Hedström | Simon Hedström |
 
 (Role added for 2026)

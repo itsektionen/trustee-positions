@@ -15,153 +15,21 @@ As a standard bearer, you get to attend some of the higher profile events at KTH
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Hannah Veit
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Simon Hocker
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Hugo Bachér
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Fredrik Jogell
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Alva Ols
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Katarina Lindmark
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Adam Rosell
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Alexandra Kolonia
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Sara Ersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Johanna Wärvik
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Emma Bolin
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Almira Hamzic
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Karl Stenlund
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Vilho Jonsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Nathalie Sahlström
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="1">
-      Nathalie Sahlström
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-</table>
+| Year | Spring             | Fall               |
+| ---- | ------------------ | ------------------ |
+| 2026 | Hannah Veit        | Hannah Veit        |
+| 2025 | Simon Hocker       | Simon Hocker       |
+| 2024 | Hugo Bachér        | Hugo Bachér        |
+| 2023 | Fredrik Jogell     | Fredrik Jogell     |
+| 2022 | Alva Ols           | Alva Ols           |
+| 2021 | Katarina Lindmark  | Katarina Lindmark  |
+| 2020 | Adam Rosell        | Adam Rosell        |
+| 2019 | Alexandra Kolonia  | Alexandra Kolonia  |
+| 2018 | Sara Ersson        | Sara Ersson        |
+| 2017 | Johanna Wärvik     | Johanna Wärvik     |
+| 2016 | Emma Bolin         | Emma Bolin         |
+| 2015 | Almira Hamzic      | Almira Hamzic      |
+| 2014 | Karl Stenlund      | Karl Stenlund      |
+| 2013 | Vilho Jonsson      | Vilho Jonsson      |
+| 2012 | Nathalie Sahlström | Nathalie Sahlström |
+| 2011 |                    | Nathalie Sahlström |

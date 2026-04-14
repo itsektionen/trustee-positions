@@ -13,180 +13,24 @@ The experiences one gains from holding the position.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Praanto Samadder
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Amanda Baza
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Maxim Kvasov
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Xinlin Zhu
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Paul Coada
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="1">
-      Mikaela Illanes
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-    <td>
-      Jana Prihodko
-    </td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="1">
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-    <td>
-      Juan Young Huh
-    </td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Sofie Sjödahl
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="1">
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-    <td>
-      Tommy Månström
-    </td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Dino Strömberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Dino Strömberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Dan Rosenqvist.
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-</table>
+| Year | Spring           | Fall             |
+| ---- | ---------------- | ---------------- |
+| 2025 |                  |                  |
+| 2024 | Praanto Samadder | Praanto Samadder |
+| 2023 | Amanda Baza      | Amanda Baza      |
+| 2022 | Maxim Kvasov     | Maxim Kvasov     |
+| 2021 |                  |                  |
+| 2020 | Xinlin Zhu       | Xinlin Zhu       |
+| 2019 |                  |                  |
+| 2018 |                  |                  |
+| 2017 |                  |                  |
+| 2016 |                  |                  |
+| 2015 |                  |                  |
+| 2014 |                  | Paul Coada       |
+| 2013 | Jana Prihodko    | Mikaela Illanes  |
+| 2012 | Juan Young Huh   | Juan Young Huh   |
+| 2011 | Sofie Sjödahl    | Sofie Sjödahl    |
+| 2010 | Tommy Månström   | Tommy Månström   |
+| 2009 | Dino Strömberg   | Dino Strömberg   |
+| 2008 | Dino Strömberg   | Dino Strömberg   |
+| 2007 | Dan Rosenqvist.  | Dan Rosenqvist.  |

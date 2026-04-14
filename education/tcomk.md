@@ -12,131 +12,18 @@ You learn a lot about how the courses rely on each other for the TCOMK programme
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Milana Timonina
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Benedek Boldizsar
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Hannah Veit
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Antonia Wälken
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Maxim Kvasov
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Vidhu Aggarwal
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Jerry
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Ayub Atif
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="1">
-      Wajd Thome
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-    <td>
-      Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Dean Rauschenbusch
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="1">
-      Simone Stefani
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Mostafa Hassani
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Steven Zhou
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-</table>
+| Year | Spring             | Fall               |
+| ---- | ------------------ | ------------------ |
+| 2026 | Milana Timonina    | Milana Timonina    |
+| 2025 | Benedek Boldizsar  | Benedek Boldizsar  |
+| 2024 | Hannah Veit        | Hannah Veit        |
+| 2023 | Antonia Wälken     | Antonia Wälken     |
+| 2022 | Maxim Kvasov       | Maxim Kvasov       |
+| 2021 | Vidhu Aggarwal     | Vidhu Aggarwal     |
+| 2020 | Xinlin Zhu (Jerry) | Xinlin Zhu (Jerry) |
+| 2019 | Ayub Atif          | Ayub Atif          |
+| 2018 | Justin Lex         | Wajd Thome         |
+| 2017 | Dean Rauschenbusch | Dean Rauschenbusch |
+| 2016 | Mostafa Hassani    | Simone Stefani     |
+| 2015 | Steven Zhou        | Steven Zhou        |
+| 2014 |                    |                    |

@@ -13,108 +13,16 @@ The experiences you gain vary wildly depending on what your role is decided to b
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Erik Losin <br/> Danni Norén
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Albin Durfors <br/> Victor Karlström
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Teodor Hernvall Paulsen <br/> Moa Fredriksson <br/> Silvia Lin Lü
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Samuel Larsson <br/> Nilofar Rahmani <br/> Adrian Jonsson Sjödin <br/> Yohanna Sundin
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Yash Danore <br/> Eira Birkhammar <br/> Mattias Lind
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Tom <br/> Samuel Larsson <br/> Diran
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Johanna Hansen <br/> Netanel Avraham Eklind <br/> Alicia Hübinette
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Gustaf Haglind <br/> Basel Mardini <br/> Anton Werelius
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Sara Ersson <br/> Tommie Andersson <br/> Robin Björk
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      August Hafvenström <br/> Anton Jernberg <br/> Felix Gustavsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Johan Gasslander <br/> Steven Ly <br/> Celine Mileikowsky
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-</table>
+| Year | Spring                                                                 | Fall                                                                   |
+| ---- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2025 | Erik Losin, Danni Norén                                                | Erik Losin, Danni Norén                                                |
+| 2024 | Albin Durfors, Victor Karlström                                        | Albin Durfors, Victor Karlström                                        |
+| 2023 | Teodor Hernvall Paulsen, Moa Fredriksson, Silvia Lin Lü                | Teodor Hernvall Paulsen, Moa Fredriksson, Silvia Lin Lü                |
+| 2022 | Samuel Larsson, Nilofar Rahmani, Adrian Jonsson, Sjödin Yohanna Sundin | Samuel Larsson, Nilofar Rahmani, Adrian Jonsson Sjödin, Yohanna Sundin |
+| 2021 | Yash Danore, Eira Birkhammar, Mattias Lind                             | Yash Danore, Eira Birkhammar, Mattias Lind                             |
+| 2020 | Samuel Larsson, Diran Bajwa, Tom                                       | Samuel Larsson, Diran Bajwa, Tom                                       |
+| 2019 | Johanna Hansen, Netanel Avraham Eklind, Alicia Hübinette               | Johanna Hansen, Netanel Avraham Eklind, Alicia Hübinette               |
+| 2018 | Gustaf Haglind, Basel Mardini, Anton Werelius                          | Gustaf Haglind, Basel Mardini, Anton Werelius                          |
+| 2017 | Sara Ersson, Tommie Andersson, Robin Björk                             | Sara Ersson, Tommie Andersson, Robin Björk                             |
+| 2016 | August Hafvenström, Anton Jernberg, Felix Gustavsson                   | August Hafvenström, Anton Jernberg, Felix Gustavsson                   |
+| 2015 | Johan Gasslander, Steven Ly, Celine Mileikowsky                        | Johan Gasslander, Steven Ly, Celine Mileikowsky                        |

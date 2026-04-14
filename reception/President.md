@@ -23,241 +23,31 @@ Planning and organizing, communication
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Viggo Tinge
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Gustav Appelros
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Peter Patranika
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Simon Hedström
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Cornelia Sundqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Artur Amcoff
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Alicia Hübinette
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Klas Engberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Aron Hansen Berggren
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Gustav Engström
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Patrik Karlstén
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Fredrik Niklasson
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Jacob Arvidsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Ingrid Sörensen
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Emelie Holm
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Carl Brengesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Wilhelm Svenselius
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Oscar Frick
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Ann-Sofi Åhn
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      André Hallan
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Daniel Lundin
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      Ulrika Malmgren
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-      Fredrik Westberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-      Sara Kåberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring               | Fall                 |
+| ---- | -------------------- | -------------------- |
+| 2026 | Viggo Tinge          | Viggo Tinge          |
+| 2025 | Gustav Appelros      | Gustav Appelros      |
+| 2024 | Peter Patranika      | Peter Patranika      |
+| 2023 | Simon Hedström       | Simon Hedström       |
+| 2022 | Cornelia Sundqvist   | Cornelia Sundqvist   |
+| 2021 | Artur Amcoff         | Artur Amcoff         |
+| 2020 | Alicia Hübinette     | Alicia Hübinette     |
+| 2019 | Klas Engberg         | Klas Engberg         |
+| 2018 | Aron Hansen Berggren | Aron Hansen Berggren |
+| 2017 | Gustav Engström      | Gustav Engström      |
+| 2016 | Patrik Karlstén      | Patrik Karlstén      |
+| 2015 | Fredrik Niklasson    | Fredrik Niklasson    |
+| 2014 | Jacob Arvidsson      | Jacob Arvidsson      |
+| 2013 | Ingrid Sörensen      | Ingrid Sörensen      |
+| 2012 | Emelie Holm          | Emelie Holm          |
+| 2011 | Carl Brengesjö       | Carl Brengesjö       |
+| 2010 | Wilhelm Svenselius   | Wilhelm Svenselius   |
+| 2009 | Oscar Frick          | Oscar Frick          |
+| 2008 | Ann-Sofi Åhn         | Ann-Sofi Åhn         |
+| 2007 | Tian-Lin Gu          | Tian-Lin Gu          |
+| 2006 | André Hallan         | André Hallan         |
+| 2005 | Daniel Lundin        | Daniel Lundin        |
+| 2004 |                      |                      |
+| 2003 | Ulrika Malmgren      | Ulrika Malmgren      |
+| 2002 | Fredrik Westberg     | Fredrik Westberg     |
+| 2001 | Sara Kåberg          | Sara Kåberg          |

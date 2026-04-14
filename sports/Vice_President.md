@@ -13,249 +13,31 @@ Communication, booking, billing.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Erik Losin
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Erik Losin
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Rasmus Sjöberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Rasmus Sjöberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td>
-      Daniel Hartman
-    </td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Mille af Rolén
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="1">
-      Rikard Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-    <td>
-      Rikard Johansson <br/> Robin Argin
-    </td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Christopher Gustafson
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Samuel​ ​Larsson​
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td>
-      Oskar Dahl
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Akash Menon
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Akash Menon
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Pontus Engström
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Nicholas Ojala
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="1">
-      Henrik Norman
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Alfred Andersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Alfred Andersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Martin Axelsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="1">
-      Jack Enhorn
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Anna Berglund
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Steve Reinhold
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Joacim Danielsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      Andreas Sjöholm
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring                       | Fall                  |
+| ---- | ---------------------------- | --------------------- |
+| 2026 | Erik Losin                   | Erik Losin            |
+| 2025 | Erik Losin                   | Erik Losin            |
+| 2024 | Rasmus Sjöberg               | Rasmus Sjöberg        |
+| 2023 | Daniel Hartman               | Rasmus Sjöberg        |
+| 2022 | Mille af Rolén               | Mille af Rolén        |
+| 2021 | Rikard Johansson Robin Argin | Rikard Johansson      |
+| 2020 | Justin Lex                   | Justin Lex            |
+| 2019 | Christopher Gustafson        | Christopher Gustafson |
+| 2018 | Justin Lex                   | Justin Lex            |
+| 2017 | Oskar Dahl                   | Samuel​ ​Larsson​        |
+| 2016 | Akash Menon                  | Akash Menon           |
+| 2015 | Akash Menon                  | Akash Menon           |
+| 2014 | Pontus Engström              | Pontus Engström       |
+| 2013 | Nicholas Ojala               | Nicholas Ojala        |
+| 2012 |                              | Henrik Norman         |
+| 2011 | Alfred Andersson             | Alfred Andersson      |
+| 2010 | Alfred Andersson             | Alfred Andersson      |
+| 2009 | Martin Axelsson              | Martin Axelsson       |
+| 2008 |                              | Jack Enhorn           |
+| 2007 | Anna Berglund                | Anna Berglund         |
+| 2006 | Steve Reinhold               | Steve Reinhold        |
+| 2005 | Joacim Danielsson            | Joacim Danielsson     |
+| 2004 |                              |                       |
+| 2003 | Andreas Sjöholm              | Andreas Sjöholm       |
+| 2002 |                              |                       |
+| 2001 |                              |                       |

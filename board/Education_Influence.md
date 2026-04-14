@@ -22,246 +22,31 @@ You learn a lot about the education at KTH as a whole and also have a good platf
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Madelaine Bunao
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Denise Hommik
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Antonia Wälken
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Frej Larssen
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Anton Rådberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Cornelia Sundqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Kocin
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="1">
-      Xinlin Zhu( aka Jerry )
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-    <td>
-       Justin Lex-Hammarskjöld
-    </td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="1">
-       Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-    <td>
-      Simone Stefani
-    </td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Simone Stefani
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Richard Lowenrud
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Richard Lowenrud
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Soniapreet Kaur Sanghera
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Konrad Ilczuk
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Erica Soltanieh
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Ann-Sofi Åhn
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Ann-Sofie Åhn
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      George Younan
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Niclas Fagerholm
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      David Stenmar
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      David Stenmar
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-      Jonas Vis
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-      Annica Eldeby
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring                   | Fall                     |
+| ---- | ------------------------ | ------------------------ |
+| 2026 | Madelaine Bunao          | Madelaine Bunao          |
+| 2025 | Denise Hommik            | Denise Hommik            |
+| 2024 | Antonia Wälken           | Antonia Wälken           |
+| 2023 | Frej Larssen             | Frej Larssen             |
+| 2022 | Anton Rådberg            | Anton Rådberg            |
+| 2021 | Cornelia Sundqvist       | Cornelia Sundqvist       |
+| 2020 | Kocin                    | Kocin                    |
+| 2019 | Justin Lex-Hammarskjöld  | Xinlin Zhu (aka Jerry)   |
+| 2018 | Simone Stefani           | Justin Lex-Hammarskjöld  |
+| 2017 | Simone Stefani           | Simone Stefani           |
+| 2016 | Richard Lowenrud         | Richard Lowenrud         |
+| 2015 | Richard Lowenrud         | Richard Lowenrud         |
+| 2014 |                          |                          |
+| 2013 | Soniapreet Kaur Sanghera | Soniapreet Kaur Sanghera |
+| 2012 | Konrad Ilczuk            | Konrad Ilczuk            |
+| 2011 | Erica Soltanieh          | Erica Soltanieh          |
+| 2010 | Ann-Sofi Åhn             | Ann-Sofi Åhn             |
+| 2009 | Ann-Sofie Åhn            | Ann-Sofie Åhn            |
+| 2008 | George Younan            | George Younan            |
+| 2007 |                          |                          |
+| 2006 | Niclas Fagerholm         | Niclas Fagerholm         |
+| 2005 | David Stenmar            | David Stenmar            |
+| 2004 |                          |                          |
+| 2003 | David Stenmar            | David Stenmar            |
+| 2002 | Jonas Vis                | Jonas Vis                |
+| 2001 | Annica Eldeby            | Annica Eldeby            |

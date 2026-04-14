@@ -13,227 +13,29 @@ You learn a lot about bookkeeping, alcohol laws and regulations, and a lot about
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Dylan Horn Kreiner
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Benedek Boldizsar
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Ludvig Hellman Öhman
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Gabriel Klasson Landin
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Fredrik Jogell
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Seol Li Kim
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Axel Forshällen
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Erik Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Rasmus Ahlbäck
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Rasmus Ahlbäck
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="1">
-      August Hafvenström
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Helena Hänninen
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Helena Hänninen
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Alexander Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Emil Sveningson
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Ivy Wang
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Zimon Mossberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Erik Övelius
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Carl Brengesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Johannes Nordkvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      John Petroff
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Mattias Brännström
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-      Jonas Vis
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      Erik Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-</table>
+| Year | Spring                 | Fall                   |
+| ---- | ---------------------- | ---------------------- |
+| 2026 | Dylan Horn Kreiner     | Dylan Horn Kreiner     |
+| 2025 | Benedek Boldizsar      | Benedek Boldizsar      |
+| 2024 | Ludvig Hellman Öhman   | Ludvig Hellman Öhman   |
+| 2023 | Gabriel Klasson Landin | Gabriel Klasson Landin |
+| 2022 | Fredrik Jogell         | Fredrik Jogell         |
+| 2021 | Seol Li Kim            | Seol Li Kim            |
+| 2020 | Axel Forshällen        | Axel Forshällen        |
+| 2019 | Erik Henriksson        | Erik Henriksson        |
+| 2018 | Rasmus Ahlbäck         | Rasmus Ahlbäck         |
+| 2017 | Rasmus Ahlbäck         | Rasmus Ahlbäck         |
+| 2016 | Helena Hänninen        | August Hafvenström     |
+| 2015 | Helena Hänninen        | Helena Hänninen        |
+| 2014 | Alexander Johansson    | Alexander Johansson    |
+| 2013 | Emil Sveningson        | Emil Sveningson        |
+| 2012 | Ivy Wang               | Ivy Wang               |
+| 2011 | Zimon Mossberg         | Zimon Mossberg         |
+| 2010 | Erik Övelius           | Erik Övelius           |
+| 2009 | Carl Brengesjö         | Carl Brengesjö         |
+| 2008 | Johannes Nordkvist     | Johannes Nordkvist     |
+| 2007 | John Petroff           | John Petroff           |
+| 2006 | Mattias Brännström     | Mattias Brännström     |
+| 2005 | Daniel Lundin          | Daniel Lundin          |
+| 2004 | Jonas Vis              | Jonas Vis              |
+| 2003 | Erik Johansson         | Erik Johansson         |

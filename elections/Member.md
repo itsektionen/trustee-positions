@@ -13,242 +13,30 @@ You get to meet a variety of people in the election committee, and you get to be
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Alexandra Andersson <br> Leonard Lindgren <br> Jonathan Nilsson Cullgert <br> Denise Hommik <br> Viggo Tinge <br> Adam Brolin
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Simon Hedström <br/> Zak Ora <br/> Victor Karlström <br/> Dante Julio Cosentino <br/> Benjamin Kalatsjan-Kirejevas
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Simon Dichy Malmqvist <br/> Rozhan Hannah Asadi <br/> Robin kandiderade <br/> Justus Kluge
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Viggo Hermansson <br/> Ludvig Hellman Öhman
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="1">
-      Andrej Miladinovic <br/> Marvin Juzwiak <br/> Addie Bodin (Then Adam Bodin) <br/> Felix Holmberg <br/> Adam Caspary
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-    <td>
-      Rebecka Rönnbäck <br/> Samuel Larsson <br/> Cornelia Sundqvist <br/> Felix Holmberg <br/> Adam Caspary
-    </td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="1">
-      Simon Yllmark <br/> Mattias Lind <br/> Frej Larssen
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="1">
-      Adam Caspary <br/> Netanel Avraham Eklind <br/> Erik Almqvist <br/> Bafoday Barrow  <br/> Xinlin Zhu
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-    <td>
-      Netanel Avraham Eklind <br/> Erik Almqvist <br/> Bafoday Barrow  <br/> Xinlin Zhu
-    </td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Alicia Hübinette <br/> Erik Pettersson <br/> Adam Rosell <br/> Axel Forshöller <br/> Mikael Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Sara Ersson <br/> Emma Good <br/> Filip Hidén <br/> Vidar Särnesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Filip​ ​Hidén​ <br/> Felix​ ​Jontegen​ <br/> Justin​ ​Lex​ <br/> Gustaf Haglind <br/> Elias Skilje <br/> Richard Zwahlen
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td>
-      Gustaf Haglind <br/> Elias Skilje <br/> Richard Zwahlen
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="1">
-      Johanna Wärvik <br/> Adrian Rågberg <br/> Emma Good <br/> Jacob Arvidsson <br/> Simon Westin
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Emma Good <br/> Jacob Arvidsson <br/> Simon Westin
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="1">
-      Klas Engberg <br/> Jenny Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-    <td>
-      Jenny Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Jonas Ek <br/> Jenny Karlsson <br/> Astrid Gunne <br/> Almira Hamzić <br/> Joachim Toft <br/> Fredrik Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-    <td>
-      Astrid Gunne <br/> Almira Hamzić <br/> Joachim Toft <br/> Fredrik Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="1">
-      Staffan Aldenfalk <br/> Emma Callerström <br/> Almira Hamzic <br/> Joachim Toft
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-      Ulrika Malgren <br/> Morten Nielsen
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-</table>
+| Year | Spring                                                                                                    | Fall                                                                                                      |
+| ---- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2026 | Alexandra Andersson, Leonard Lindgren, Jonathan Nilsson Cullgert, Denise Hommik, Viggo Tinge, Adam Brolin | Alexandra Andersson, Leonard Lindgren, Jonathan Nilsson Cullgert, Denise Hommik, Viggo Tinge, Adam Brolin |
+| 2025 | Simon Hedström, Zak Ora, Victor Karlström, Dante Julio Cosentino, Benjamin Kalatsjan-Kirejevas            | Simon Hedström, Zak Ora, Victor Karlström, Dante Julio Cosentino, Benjamin Kalatsjan-Kirejevas            |
+| 2024 | Simon Dichy Malmqvist, Rozhan Hannah Asadi, Robin Claesson, Justus Kluge                                  | Simon Dichy Malmqvist, Rozhan Hannah Asadi, Robin Claesson, Justus Kluge                                  |
+| 2023 |                                                                                                           | Viggo Hermansson, Ludvig Hellman Öhman                                                                    |
+| 2022 | Rebecka Rönnbäck, Samuel Larsson, Cornelia Sundqvist, Adam Caspary, Felix Holmberg                        | Adam Caspary, Felix Holmberg, Andrej Miladinovic, Marvin Juzwiak, Adam Bodin                              |
+| 2021 |                                                                                                           | Simon Yllmark, Mattias Lind, Frej Larssen                                                                 |
+| 2020 | Netanel Avraham Eklind, Erik Almqvist, Bafoday Barrow, Xinlin Zhu                                         | Netanel Avraham Eklind, Erik Almqvist, Bafoday Barrow, Xinlin Zhu, Adam Caspary                           |
+| 2019 | Alicia Hübinette, Erik Pettersson, Adam Rosell, Axel Forshöller, Mikael Henriksson                        | Alicia Hübinette, Erik Pettersson, Adam Rosell, Axel Forshöller, Mikael Henriksson                        |
+| 2018 | Sara Ersson, Emma Good, Filip Hidén, Vidar Särnesjö                                                       | Sara Ersson, Emma Good, Filip Hidén, Vidar Särnesjö                                                       |
+| 2017 | Gustaf Haglind, Elias Skilje, Richard Zwahlen                                                             | Gustaf Haglind, Elias Skilje, Richard Zwahlen, Filip​ ​Hidén,​ Felix​ ​Jontegen,​ Justin​ ​Lex            |
+| 2016 | Emma Good, Jacob Arvidsson, Simon Westin                                                                  | Emma Good, Jacob Arvidsson, Simon Westin, Johanna Wärvik, Adrian Rågberg                                  |
+| 2015 | Jenny Karlsson                                                                                            | Jenny Karlsson, Klas Engberg                                                                              |
+| 2014 | Astrid Gunne, Almira Hamzić, Joachim Toft, Fredrik Sievers                                                | Astrid Gunne, Almira Hamzić, Joachim Toft, Fredrik Sievers, Jonas Ek, Jenny Karlsson                      |
+| 2013 |                                                                                                           | Staffan Aldenfalk, Emma Callerström, Almira Hamzic, Joachim Toft                                          |
+| 2012 |                                                                                                           |                                                                                                           |
+| 2011 |                                                                                                           |                                                                                                           |
+| 2010 |                                                                                                           |                                                                                                           |
+| 2009 |                                                                                                           |                                                                                                           |
+| 2008 |                                                                                                           |                                                                                                           |
+| 2007 |                                                                                                           |                                                                                                           |
+| 2006 |                                                                                                           |                                                                                                           |
+| 2005 |                                                                                                           |                                                                                                           |
+| 2004 |                                                                                                           |                                                                                                           |
+| 2003 |                                                                                                           |                                                                                                           |
+| 2002 | Ulrika Malgren, Morten Nielsen                                                                            | Ulrika Malgren, Morten Nielsen                                                                            |

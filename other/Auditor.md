@@ -13,247 +13,31 @@ You learn a lot about the bylaws throughout the year. You also learn a lot throu
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Dante Julio Cosentino <br> Simon Hedström
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Katya Holmberg <br/> Evelina Berg
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Adam Caspary <br/> Gabriel Klasson Landin
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Adam Caspary <br/> Katarina Lindmark
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Katarina Lindmark <br/> Anna Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      E-Joon Ko <br/> Amanda Baza 
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Christopher Gustafson <br/> Amanda Koinberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Emma Good <br/> Elias Skilje
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Erik Pettersson <br/> Elias Skilje
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Adrian Rågberg <br/> Martin Pola
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Jacob Arvidsson <br/> Almira Hamzic
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Olle Gynther Zillén <br/> Wilhelm Svenselius
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Fredrik Sievers<br/> Tomás Silveira Bertorello <br/> Marcus Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Johannes Olsson <br/> Rickard Eriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Anton Grünfeld <br/> Isabel Olofsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="1">
-      Ivy Wang <br/> Joakim Borgström <br/> Mikael Östberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-    <td>
-      Joakim Borgström <br/> Mikael Östberg
-    </td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="1">
-      Joakim Borgström <br/> Viktor Nyström <br/> Peter Hamberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-    <td>
-      Viktor Nyström <br/> Peter Hamberg
-    </td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      André Hallan <br/> Johannes Nordkvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Tommy Månström <br/> Carl Brengesjö <br/> Lukas Grimfors <br/> Dain Nilsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Simon Gordan <br/> Kai Eriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Kai Eriksson <br/> Ulrika Malmgren
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Mats Andersson <br/> Joacim Danielsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-       Kaj Froelich <br/> Lou Sandholm <br/> Sara Najafi
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-      Michele Masucci <br/> John af Petersens
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring                                                       | Fall                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026 | Dante Julio Cosentino, Simon Hedström                        | Dante Julio Cosentino, Simon Hedström                        |
+| 2025 | Katya Holmberg, Evelina Berg                                 | Katya Holmberg, Evelina Berg                                 |
+| 2024 | Adam Caspary, Gabriel Klasson Landin                         | Adam Caspary, Gabriel Klasson Landin                         |
+| 2023 | Adam Caspary, Katarina Lindmark                              | Adam Caspary, Katarina Lindmark                              |
+| 2022 | Katarina Lindmark, Anna Karlsson                             | Katarina Lindmark, Anna Karlsson                             |
+| 2021 | E-Joon Ko, Amanda Baza                                       | E-Joon Ko, Amanda Baza                                       |
+| 2020 | Christopher Gustafson, Amanda Koinberg                       | Christopher Gustafson, Amanda Koinberg                       |
+| 2019 | Emma Good, Elias Skilje                                      | Emma Good, Elias Skilje                                      |
+| 2018 | Erik Pettersson, Elias Skilje                                | Erik Pettersson, Elias Skilje                                |
+| 2017 | Adrian Rågberg, Martin Pola                                  | Adrian Rågberg, Martin Pola                                  |
+| 2016 | Jacob Arvidsson, Almira Hamzic                               | Jacob Arvidsson, Almira Hamzic                               |
+| 2015 | Olle Gynther Zillén, Wilhelm Svenselius                      | Olle Gynther Zillén, Wilhelm Svenselius                      |
+| 2014 | Fredrik Sievers, Tomás Silveira Bertorello, Marcus Johansson | Fredrik Sievers, Tomás Silveira Bertorello, Marcus Johansson |
+| 2013 | Johannes Olsson, Rickard Eriksson                            | Johannes Olsson, Rickard Eriksson                            |
+| 2012 | Anton Grünfeld, Isabel Olofsson                              | Anton Grünfeld, Isabel Olofsson                              |
+| 2011 | Joakim Borgström, Mikael Östberg                             | Joakim Borgström, Mikael Östberg, Ivy Wang                   |
+| 2010 | Viktor Nyström, Peter Hamberg                                | Viktor Nyström, Peter Hamberg, Joakim Borgström              |
+| 2009 | André Hallan, Johannes Nordkvist                             | André Hallan, Johannes Nordkvist                             |
+| 2008 | Tommy Månström, Carl Brengesjö, Lukas Grimfors, Dain Nilsson | Tommy Månström, Carl Brengesjö, Lukas Grimfors, Dain Nilsson |
+| 2007 | Simon Gordan, Kai Eriksson                                   | Simon Gordan, Kai Eriksson                                   |
+| 2006 | Kai Eriksson, Ulrika Malmgren                                | Kai Eriksson, Ulrika Malmgren                                |
+| 2005 | Mats Andersson, Joacim Danielsson                            | Mats Andersson, Joacim Danielsson                            |
+| 2004 |                                                              |                                                              |
+| 2003 | Kaj Froelich, Lou Sandholm, Sara Najafi                      | Kaj Froelich, Lou Sandholm, Sara Najafi                      |
+| 2002 |                                                              |                                                              |
+| 2001 | Michele Masucci, John af Petersens                           | Michele Masucci, John af Petersens                           |

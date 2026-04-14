@@ -13,156 +13,21 @@ Conversation skills, formal manners
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Dylan Horn Kreiner
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Elina Wang
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Linnéa Sandblom
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Gabriel Klasson Landin
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Cornelia Sundqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Adam Rosell
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Alicia
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-       Adam Rosell
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Klas Engberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Patrik Karlsten
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Erik Pettersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Matilda Taube
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Emelie Holm
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Rasmus Stenbäck
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="1">
-      Vilho Jonsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-    <td>
-      Carl Brengesjö
-    </td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="1">
-      Carl Brengesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-</table>
+| Year | Spring                 | Fall                   |
+| ---- | ---------------------- | ---------------------- |
+| 2026 | Dylan Horn Kreiner     | Dylan Horn Kreiner     |
+| 2025 | Elina Wang             | Elina Wang             |
+| 2024 | Linnéa Sandblom        | Linnéa Sandblom        |
+| 2023 | Gabriel Klasson Landin | Gabriel Klasson Landin |
+| 2022 | Cornelia Sundqvist     | Cornelia Sundqvist     |
+| 2021 | Adam Rosell            | Adam Rosell            |
+| 2020 | Alicia Hübinette       | Alicia Hübinette       |
+| 2019 | Adam Rosell            | Adam Rosell            |
+| 2018 | Klas Engberg           | Klas Engberg           |
+| 2017 | Patrik Karlsten        | Patrik Karlsten        |
+| 2016 | Erik Pettersson        | Erik Pettersson        |
+| 2015 | Matilda Taube          | Matilda Taube          |
+| 2014 | Emelie Holm            | Emelie Holm            |
+| 2013 | Rasmus Stenbäck        | Rasmus Stenbäck        |
+| 2012 | Carl Brengesjö         | Vilho Jonsson          |
+| 2011 |                        | Carl Brengesjö         |

@@ -13,177 +13,23 @@ Organizing events, conducting interviews, time management, coordination of group
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Elina Wang
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Justus Kluge
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Hannah Veit
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Albin Durfors
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Seolli Kim
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Adam Caspary
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Oliver Wilén
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-       Erik Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Liam Carter
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Fredrik Björkman
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Johanna Wärvik
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Theodor Sandström
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Tomás Silveira Bertorello
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Mikaela Illanes
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Almira Hamzic
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="1">
-      Alexandra Hänel
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-    <td>
-      Joakim Borgström
-    </td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="1">
-      Björn Dahlgren
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-    <td>
-      Erik Lennahl
-    </td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Andréas Rost
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-</table>
+| Year | Spring                    | Fall                      |
+| ---- | ------------------------- | ------------------------- |
+| 2026 | Elina Wang                | Elina Wang                |
+| 2025 | Justus Kluge              | Justus Kluge              |
+| 2024 | Hannah Veit               | Hannah Veit               |
+| 2023 | Albin Durfors             | Albin Durfors             |
+| 2022 | Seolli Kim                | Seolli Kim                |
+| 2021 | Adam Caspary              | Adam Caspary              |
+| 2020 | Oliver Wilén              | Oliver Wilén              |
+| 2019 | Erik Henriksson           | Erik Henriksson           |
+| 2018 | Liam Carter               | Liam Carter               |
+| 2017 | Fredrik Björkman          | Fredrik Björkman          |
+| 2016 | Johanna Wärvik            | Johanna Wärvik            |
+| 2015 | Theodor Sandström         | Theodor Sandström         |
+| 2014 | Tomás Silveira Bertorello | Tomás Silveira Bertorello |
+| 2013 | Mikaela Illanes           | Mikaela Illanes           |
+| 2012 | Almira Hamzic             | Almira Hamzic             |
+| 2011 | Joakim Borgström          | Alexandra Hänel           |
+| 2010 | Erik Lennahl              | Björn Dahlgren            |
+| 2009 | Andréas Rost              | Andréas Rost              |

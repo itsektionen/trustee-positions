@@ -13,238 +13,31 @@ Software, Hardware, Organizing, Communication, Planning, Project Leadership
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Tobias Stridsberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Julle Juliusson Keuschnig
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Viktor Sandström
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Kristófer Ingi Maack
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Adlan Atabeyli
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Oscar Meyer
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Erik Almqvist
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Celine Mileikowsky
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Jesper Falk
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Sebastian Porling
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Filip Hidén
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Andreas Wallner
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Tobias Assarsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Tomas Silveira Bertorello
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Marianne Fjelberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Tomás Silveira Bertorello
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Fredrik Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Eric Masser
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Viking Sojé Berggren
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="1">
-      Zacharias Winnem
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Viking Sojé-Berggren
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring                    | Fall                      |
+| ---- | ------------------------- | ------------------------- |
+| 2026 | Tobias Stridsberg         | Tobias Stridsberg         |
+| 2025 | Julle Juliusson Keuschnig | Julle Juliusson Keuschnig |
+| 2024 | Viktor Sandström          | Viktor Sandström          |
+| 2023 | Kristófer Ingi Maack      | Kristófer Ingi Maack      |
+| 2022 | Adlan Atabeyli            | Adlan Atabeyli            |
+| 2021 | Oscar Meyer               | Oscar Meyer               |
+| 2020 | Erik Almqvist             | Erik Almqvist             |
+| 2019 | Celine Mileikowsky        | Celine Mileikowsky        |
+| 2018 | Jesper Falk               | Jesper Falk               |
+| 2017 | Sebastian Porling         | Sebastian Porling         |
+| 2016 | Filip Hidén               | Filip Hidén               |
+| 2015 | Andreas Wallner           | Andreas Wallner           |
+| 2014 | Tobias Assarsson          | Tobias Assarsson          |
+| 2013 | Tomas Silveira Bertorello | Tomas Silveira Bertorello |
+| 2012 | Marianne Fjelberg         | Marianne Fjelberg         |
+| 2011 | Tomás Silveira Bertorello | Tomás Silveira Bertorello |
+| 2010 | Fredrik Sievers           | Fredrik Sievers           |
+| 2009 | Eric Masser               | Eric Masser               |
+| 2008 | Viking Sojé Berggren      | Viking Sojé Berggren      |
+| 2007 |                           |                           |
+| 2006 |                           | Zacharias Winnem          |
+| 2005 | Viking Sojé-Berggren      | Viking Sojé-Berggren      |
+| 2004 |                           |                           |
+| 2003 |                           |                           |
+| 2002 |                           |                           |
+| 2001 |                           |                           |

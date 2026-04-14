@@ -13,248 +13,31 @@ Recruitment
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Dante Julio Cosentino
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Daniel Nordin
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Fredrik Jogell
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Robin Claesson
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Seolli Kim
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Bafoday Barrow
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Adam Rosell
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-       Liam Carter
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Justin Lex
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Samuel​ ​Larsson​
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td>
-      Simon Westin
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Jenny Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Fredrik Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Fredrik Sievers
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-    <td>
-      Staffan Aldenfalk
-    </td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-      Olle Gynther-Zillen
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-      Aiman Josefsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-      Per Modin
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-      Carl Brengesjö
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-      Tommy Månström
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="1">
-      Isak Färnlycke
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-    <td>
-      Daniel Öman
-    </td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Henrik Olsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="1">
-      Kristian
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-  <tr>
-    <td>HT01</td>
-    <td rowspan="2">
-      Fredrik Westberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT01</td>
-  </tr>
-</table>
+| Year | Spring                | Fall                  |
+| ---- | --------------------- | --------------------- |
+| 2026 | Dante Julio Cosentino | Dante Julio Cosentino |
+| 2025 | Daniel Nordin         | Daniel Nordin         |
+| 2024 | Fredrik Jogell        | Fredrik Jogell        |
+| 2023 |                       | Robin Claesson        |
+| 2022 | Seolli Kim            | Seolli Kim            |
+| 2021 | Bafoday Barrow        | Bafoday Barrow        |
+| 2020 | Adam Rosell           | Adam Rosell           |
+| 2019 | Liam Carter           | Liam Carter           |
+| 2018 | Justin Lex            | Justin Lex            |
+| 2017 | Simon Westin          | Samuel​ ​Larsson​        |
+| 2016 | Jenny Karlsson        | Jenny Karlsson        |
+| 2015 | Fredrik Sievers       | Fredrik Sievers       |
+| 2014 | Staffan Aldenfalk     | Fredrik Sievers       |
+| 2013 | Olle Gynther-Zillen   | Olle Gynther-Zillen   |
+| 2012 | Aiman Josefsson       | Aiman Josefsson       |
+| 2011 | Per Modin             | Per Modin             |
+| 2010 | Carl Brengesjö        | Carl Brengesjö        |
+| 2009 | Tommy Månström        | Tommy Månström        |
+| 2008 | Daniel Öman           | Isak Färnlycke        |
+| 2007 | Henrik Olsson         | Henrik Olsson         |
+| 2006 |                       |                       |
+| 2005 |                       |                       |
+| 2004 |                       | Kristian              |
+| 2003 |                       |                       |
+| 2002 |                       |                       |
+| 2001 | Fredrik Westberg      | Fredrik Westberg      |

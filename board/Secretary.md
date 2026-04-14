@@ -15,231 +15,30 @@ Experience with secretary work, documents, statues, motions. Insight into how bo
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Douglas Lyman
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Leonard Lindgren
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Evelina Berg
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="1">
-      Vanshu Dutta
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-    <td>
-      Tove Verner Carlsson
-    </td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Hugo Bachér
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Simon Hedström
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Liam Carter
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-       Mattias Lind
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Alicia Hübinette
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Steven Ly
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Jenny Karlsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Isabel Olofsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Isabel Olofsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Joakim Borgström
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Daniel Öman
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Nahal Bazsedpay
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-      Malin Bjurhager
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      Simon Gordan
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-  <tr>
-    <td>HT02</td>
-    <td rowspan="2">
-      Jonas Vis
-    </td>
-  </tr>
-  <tr>
-    <td>VT02</td>
-  </tr>
-</table>
+| Year | Spring               | Fall             |
+| ---- | -------------------- | ---------------- |
+| 2026 | Douglas Lyman        | Douglas Lyman    |
+| 2025 | Leonard Lindgren     | Leonard Lindgren |
+| 2024 | Evelina Berg         | Evelina Berg     |
+| 2023 | Tove Verner Carlsson | Vanshu Dutta     |
+| 2022 | Hugo Bachér          | Hugo Bachér      |
+| 2021 | Simon Hedström       | Simon Hedström   |
+| 2020 | Liam Carter          | Liam Carter      |
+| 2019 | Mattias Lind         | Mattias Lind     |
+| 2018 | Alicia Hübinette     | Alicia Hübinette |
+| 2017 | Steven Ly            | Steven Ly        |
+| 2016 | Jenny Karlsson       | Jenny Karlsson   |
+| 2015 | Isabel Olofsson      | Isabel Olofsson  |
+| 2014 | Isabel Olofsson      | Isabel Olofsson  |
+| 2013 |                      |                  |
+| 2012 |                      |                  |
+| 2011 |                      |                  |
+| 2010 |                      |                  |
+| 2009 |                      |                  |
+| 2008 | Joakim Borgström     | Joakim Borgström |
+| 2007 | Daniel Öman          | Daniel Öman      |
+| 2006 |                      |                  |
+| 2005 | Nahal Bazsedpay      | Nahal Bazsedpay  |
+| 2004 | Malin Bjurhager      | Malin Bjurhager  |
+| 2003 | Simon Gordan         | Simon Gordan     |
+| 2002 | Jonas Vis            | Jonas Vis        |

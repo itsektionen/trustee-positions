@@ -13,29 +13,9 @@ You gain a good understanding of who to contact in case of discrimination/safety
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Alfred Erlandsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Danni Norén
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-</table>
+| Year | Spring            | Fall              |
+| ---- | ----------------- | ----------------- |
+| 2026 | Alfred Erlandsson | Alfred Erlandsson |
+| 2025 | Danni Norén       | Danni Norén       |
 
 (This role was added 2025)

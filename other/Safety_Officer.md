@@ -17,59 +17,12 @@ Conflict mediation, conflict assessment, technically counselling (you are not me
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Agnes Lind <br> Alfred Erlandsson <br> Evelina Fridmane
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Alin-Cristan Serban <br/> Ludvig Hellman Öhman <br/> Moa Fredriksson
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Fredrik Jogell
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Alexander Rocabado Hellgren <br/> Adlan Atabeyli
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="1">
-      Silvia Lin Lü <br/> Rebecka Rönnbäck <br/> Robin Argin
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-    <td>
-      Rebecka Rönnbäck <br/> Robin Argin
-    </td>
-  </tr>
-</table>
+| Year | Spring                                                     | Fall                                                       |
+| ---- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| 2026 | Agnes Lind, Alfred Erlandsson, Evelina Fridmane            | Agnes Lind, Alfred Erlandsson, Evelina Fridmane            |
+| 2025 | Alin-Cristan Serban, Ludvig Hellman Öhman, Moa Fredriksson | Alin-Cristan Serban, Ludvig Hellman Öhman, Moa Fredriksson |
+| 2024 | Fredrik Jogell                                             | Fredrik Jogell                                             |
+| 2023 | Alexander Rocabado Hellgren, Adlan Atabeyli                | Alexander Rocabado Hellgren, Adlan Atabeyli                |
+| 2022 | Rebecka Rönnbäck, Robin Argin                              | Rebecka Rönnbäck, Robin Argin, Silvia Lin Lü               |
 
 (This role was added in 2022, before there was only a single Safety Officer, which can be found in [Head Safety Officer](./Head_Safety_Officer.md))

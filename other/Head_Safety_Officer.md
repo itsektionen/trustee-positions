@@ -13,132 +13,19 @@ Patience, critical thinking and active listening have all improved with what we�
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Frans Ekberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Adem Ramström
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Dante Julio Cosentino
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Silvia Lin Lü
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-	  William Axbrink
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Axel Forshällen
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Sara Ersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Martin Erwe
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Celine Mileikowsky
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Emelie Lindh
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Emelie Lindh
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-</table>
+| Year | Spring                | Fall                  |
+| ---- | --------------------- | --------------------- |
+| 2026 | Frans Ekberg          | Frans Ekberg          |
+| 2025 | Adem Ramström         | Adem Ramström         |
+| 2024 | Dante Julio Cosentino | Dante Julio Cosentino |
+| 2023 | Silvia Lin Lü         | Silvia Lin Lü         |
+| 2022 |                       |                       |
+| 2021 | William Axbrink       | William Axbrink       |
+| 2020 | Axel Forshällen       | Axel Forshällen       |
+| 2019 | Sara Ersson           | Sara Ersson           |
+| 2018 |                       |                       |
+| 2017 | Martin Erwe           | Martin Erwe           |
+| 2016 | Celine Mileikowsky    | Celine Mileikowsky    |
+| 2015 | Emelie Lindh          | Emelie Lindh          |
+| 2014 |                       | Emelie Lindh          |
+| 2013 |                       |                       |

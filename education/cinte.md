@@ -13,135 +13,18 @@ Huge insight into the studies and why they are structured the way they are.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Aron Corestav
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Marcus Söderlund
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Markus Söderlund
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Wiktor Dobrosierdow
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Frej Larssen
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Valter Lundegårdh
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="1">
-      Valter Lundegårdh
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-    <td>
-      Erik Henriksson
-    </td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="1">
-      Adam Caspary
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-    <td>
-      Mattias Lind
-    </td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Vilhelm Elofsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Sara Ersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="1">
-      Martin Pola
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Oleg Sutjagin
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Oleg Sutjagin
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="1">
-      Navneet Malhi
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-</table>
+| Year | Spring              | Fall                |
+| ---- | ------------------- | ------------------- |
+| 2026 | Aron Corestav       | Aron Corestav       |
+| 2025 | Marcus Söderlund    | Marcus Söderlund    |
+| 2024 | Markus Söderlund    | Markus Söderlund    |
+| 2023 | Wiktor Dobrosierdow | Wiktor Dobrosierdow |
+| 2022 | Frej Larssen        | Frej Larssen        |
+| 2021 | Valter Lundegårdh   | Valter Lundegårdh   |
+| 2020 | Erik Henriksson     | Valter Lundegårdh   |
+| 2019 | Mattias Lind        | Adam Caspary        |
+| 2018 | Vilhelm Elofsson    | Vilhelm Elofsson    |
+| 2017 | Sara Ersson         | Sara Ersson         |
+| 2016 | Oleg Sutjagin       | Martin Pola         |
+| 2015 | Oleg Sutjagin       | Oleg Sutjagin       |
+| 2014 |                     | Navneet Malhi       |

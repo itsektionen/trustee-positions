@@ -19,141 +19,19 @@ Communication, delegation, management, team work, social skills.
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Maitreyi Muralidhar
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Elina Wang
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Vladimir Li
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-      Hugo Bachér
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Yas Asghari
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="1">
-      Samuel Larsson
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-    <td>
-      Ibrahim Ahmad
-    </td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Malin
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-      Samuel Gren Cheadle
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-       Emma Good
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-      Erik Pettersson
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-      Robin Mattas
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Johanna Wärvik
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Wilhelm Svenselius
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="1">
-      Cesar Benulic
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-    <td>
-      Alexander af Trolle
-    </td>
-  </tr>
-</table>
+| Year | Spring              | Fall                |
+| ---- | ------------------- | ------------------- |
+| 2026 | Maitreyi Muralidhar | Maitreyi Muralidhar |
+| 2025 | Elina Wang          | Elina Wang          |
+| 2024 | Vladimir Li         | Vladimir Li         |
+| 2023 | Hugo Bachér         | Hugo Bachér         |
+| 2022 | Yas Asghari         | Yas Asghari         |
+| 2021 | Ibrahim Ahmad       | Samuel Larsson      |
+| 2020 | Malin Marques       | Malin Marques       |
+| 2019 | Samuel Gren Cheadle | Samuel Gren Cheadle |
+| 2018 | Emma Good           | Emma Good           |
+| 2017 | Erik Pettersson     | Erik Pettersson     |
+| 2016 | Robin Mattas        | Robin Mattas        |
+| 2015 | Johanna Wärvik      | Johanna Wärvik      |
+| 2014 | Wilhelm Svenselius  | Wilhelm Svenselius  |
+| 2013 | Alexander af Trolle | Cesar Benulic       |

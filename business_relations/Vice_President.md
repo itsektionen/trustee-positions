@@ -13,121 +13,17 @@ Managment, communication, networking, organization, CRM
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT26</td>
-    <td rowspan="2">
-      Alex Hagdahl
-    </td>
-  </tr>
-  <tr>
-    <td>VT26</td>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Rozhan Asadi
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-      Amanda Baza
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-      Oscar Persson
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-      Keying Liang
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="1">
-      Elvira Dzidic
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-      Filip Jacobson
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="1">
-      Patrik​ ​Eriksson​
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-    <td>
-      Michaela Jangefalk
-    </td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="1">
-      Jonathan Jan
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-    <td>
-      Madeleine Berner
-    </td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-      Fanny Chan
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-</table>
+| Year | Spring             | Fall               |
+| ---- | ------------------ | ------------------ |
+| 2026 | Alex Hagdahl       | Alex Hagdahl       |
+| 2025 | Rozhan Asadi       | Rozhan Asadi       |
+| 2024 |                    |                    |
+| 2023 |                    |                    |
+| 2022 | Amanda Baza        | Amanda Baza        |
+| 2021 | Oscar Persson      | Oscar Persson      |
+| 2020 | Keying Liang       | Keying Liang       |
+| 2019 |                    | Elvira Dzidic      |
+| 2018 | Filip Jacobson     | Filip Jacobson     |
+| 2017 | Michaela Jangefalk | Patrik​ ​Eriksson​    |
+| 2016 | Madeleine Berner   | Jonathan Jan       |
+| 2015 | Fanny Chan         | Fanny Chan         |

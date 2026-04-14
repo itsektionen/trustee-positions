@@ -15,201 +15,28 @@ Similar to those the Treasurer gains, but on a shorter timescale. Also gaining e
 
 ### History
 
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Occupant(s)</th>
-  </tr>
-  <tr>
-    <td>HT25</td>
-    <td rowspan="2">
-      Benedek Boldizsár
-    </td>
-  </tr>
-  <tr>
-    <td>VT25</td>
-  </tr>
-  <tr>
-    <td>HT24</td>
-    <td rowspan="2">
-      Katya Holmberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT24</td>
-  </tr>
-  <tr>
-    <td>HT23</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT23</td>
-  </tr>
-  <tr>
-    <td>HT22</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT22</td>
-  </tr>
-  <tr>
-    <td>HT21</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT21</td>
-  </tr>
-  <tr>
-    <td>HT20</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT20</td>
-  </tr>
-  <tr>
-    <td>HT19</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT19</td>
-  </tr>
-  <tr>
-    <td>HT18</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT18</td>
-  </tr>
-  <tr>
-    <td>HT17</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT17</td>
-  </tr>
-  <tr>
-    <td>HT16</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT16</td>
-  </tr>
-  <tr>
-    <td>HT15</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT15</td>
-  </tr>
-  <tr>
-    <td>HT14</td>
-    <td rowspan="2">
-      Sofia Johansson
-    </td>
-  </tr>
-  <tr>
-    <td>VT14</td>
-  </tr>
-  <tr>
-    <td>HT13</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT13</td>
-  </tr>
-  <tr>
-    <td>HT12</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT12</td>
-  </tr>
-  <tr>
-    <td>HT11</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT11</td>
-  </tr>
-  <tr>
-    <td>HT10</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT10</td>
-  </tr>
-  <tr>
-    <td>HT09</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT09</td>
-  </tr>
-  <tr>
-    <td>HT08</td>
-    <td rowspan="2">
-      Erik Lundberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT08</td>
-  </tr>
-  <tr>
-    <td>HT07</td>
-    <td rowspan="2">
-      Erik Lundberg
-    </td>
-  </tr>
-  <tr>
-    <td>VT07</td>
-  </tr>
-  <tr>
-    <td>HT06</td>
-    <td rowspan="2">
-      Pauline Gustbée
-    </td>
-  </tr>
-  <tr>
-    <td>VT06</td>
-  </tr>
-  <tr>
-    <td>HT05</td>
-    <td rowspan="2">
-      Daniel Lundin
-    </td>
-  </tr>
-  <tr>
-    <td>VT05</td>
-  </tr>
-  <tr>
-    <td>HT04</td>
-    <td rowspan="2">
-    </td>
-  </tr>
-  <tr>
-    <td>VT04</td>
-  </tr>
-  <tr>
-    <td>HT03</td>
-    <td rowspan="2">
-      Erik Åkerfeldt
-    </td>
-  </tr>
-  <tr>
-    <td>VT03</td>
-  </tr>
-</table>
+| Year | Spring            | Fall              |
+| ---- | ----------------- | ----------------- |
+| 2025 | Benedek Boldizsár | Benedek Boldizsár |
+| 2024 | Katya Holmberg    | Katya Holmberg    |
+| 2023 |                   |                   |
+| 2022 |                   |                   |
+| 2021 |                   |                   |
+| 2020 |                   |                   |
+| 2019 |                   |                   |
+| 2018 |                   |                   |
+| 2017 |                   |                   |
+| 2016 |                   |                   |
+| 2015 |                   |                   |
+| 2014 | Sofia Johansson   | Sofia Johansson   |
+| 2013 | Mikaela Illanes   | Mikaela Illanes   |
+| 2012 | Almira Hamzic     | Almira Hamzic     |
+| 2011 | Joakim Borgström  | Joakim Borgström  |
+| 2010 | Erik Lennahl      | Erik Lennahl      |
+| 2009 | Erik Övelius      | Erik Övelius      |
+| 2008 | Erik Lundberg     | Erik Lundberg     |
+| 2007 | Erik Lundberg     | Erik Lundberg     |
+| 2006 | Pauline Gustbée   | Pauline Gustbée   |
+| 2005 | Daniel Lundin     | Daniel Lundin     |
+| 2004 |                   |                   |
+| 2003 | Erik Åkerfeldt    | Erik Åkerfeldt    |
