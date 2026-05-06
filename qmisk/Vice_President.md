@@ -15,7 +15,7 @@ Leadership and organizational skills
 
 | Year | Spring                     | Fall                       |
 | ---- | -------------------------- | -------------------------- |
-| 2065 | Alexander Lapin Pashchenko |                            |
+| 2065 | Alexander Lapin Pashchenko | Kevin Gregard              |
 | 2025 | Evelina Berg               | Alexander Lapin Pashchenko |
 | 2024 | Mattias Ritze              | Evelina Berg               |
 | 2023 | Simon Hedström             | Tegar Björkdahl            |

@@ -15,7 +15,7 @@ Conflict management, leadership skills, moderating meetings, holding meetings ac
 
 | Year | Spring                 | Fall                   |
 | ---- | ---------------------- | ---------------------- |
-| 2026 | Denise Hommik          |                        |
+| 2026 | Denise Hommik          | Viggo Tinge            |
 | 2025 | Malin Andreasson       | Denise Hommik          |
 | 2024 | Andrej Miladinovic     | Malin Andreasson       |
 | 2023 | Rikard Johansson       | Andrej Miladinovic     |
