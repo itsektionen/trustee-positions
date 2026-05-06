@@ -15,7 +15,7 @@ Managment, communication, networking, organization, CRM
 
 | Year | Spring             | Fall               |
 | ---- | ------------------ | ------------------ |
-| 2026 | Alex Hagdahl       | Alex Hagdahl       |
+| 2026 | Alex Hagdahl       | Otto Hägg          |
 | 2025 | Rozhan Asadi       | Rozhan Asadi       |
 | 2024 |                    |                    |
 | 2023 |                    |                    |

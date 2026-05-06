@@ -24,7 +24,7 @@ You learn a lot about the education at KTH as a whole and also have a good platf
 
 | Year | Spring                   | Fall                     |
 | ---- | ------------------------ | ------------------------ |
-| 2026 | Madelaine Bunao          | Madelaine Bunao          |
+| 2026 | Madelaine Bunao          | Aron Corestav            |
 | 2025 | Denise Hommik            | Denise Hommik            |
 | 2024 | Antonia Wälken           | Antonia Wälken           |
 | 2023 | Frej Larssen             | Frej Larssen             |

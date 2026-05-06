@@ -21,7 +21,7 @@ How programs and courses are organized behind the scenes
 
 | Year | Spring                       | Fall                         |
 | ---- | ---------------------------- | ---------------------------- |
-| 2026 | Melissa Kryou                | Melissa Kryou                |
+| 2026 | Melissa Kryou                | Emanuel Diktonius            |
 | 2025 | Benjamin Kalatsjan-Kirejevas | Benjamin Kalatsjan-Kirejevas |
 | 2024 | Neo Nguyen                   | Benjamin Kalatsjan-Kirejevas |
 | 2023 | Andreas Franke               | Andreas Franke               |

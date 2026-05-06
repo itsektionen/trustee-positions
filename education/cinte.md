@@ -15,7 +15,7 @@ Huge insight into the studies and why they are structured the way they are.
 
 | Year | Spring              | Fall                |
 | ---- | ------------------- | ------------------- |
-| 2026 | Aron Corestav       | Aron Corestav       |
+| 2026 | Aron Corestav       |                     |
 | 2025 | Marcus Söderlund    | Marcus Söderlund    |
 | 2024 | Markus Söderlund    | Markus Söderlund    |
 | 2023 | Wiktor Dobrosierdow | Wiktor Dobrosierdow |

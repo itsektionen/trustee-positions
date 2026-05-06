@@ -17,7 +17,7 @@ Huge insight into the studies and why they are structured the way they are.
 
 | Year | Spring           | Fall             |
 | ---- | ---------------- | ---------------- |
-| 2026 | August Larsson   | August Larsson   |
+| 2026 | August Larsson   |                  |
 | 2025 | Madelaine Bunao  | Madelaine Bunao  |
 | 2024 | Markus Barnå     | Gustav Appelros  |
 | 2023 | Harry Karlsson   | Oscar Garayeli   |
